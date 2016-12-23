@@ -1,3 +1,268 @@
-h1{
-	color: green;
+#buycar input{vertical-align: middle;}
+#buycar a{color: #666;}
+/*buycar */
+.buyHeader{
+	height: 3.92rem;
+	width: 100%;
+	background: #fff;
+	overflow: hidden;
+	text-align: center;
+	color: #333;
+	line-height:3.92rem;
+	border-bottom: 1px solid rgba(51,51,51,0.15);
+}
+.buyGoBack{
+	z-index: 5;
+	float: left;
+	text-align: left;
+	vertical-align: middle;
+	width: 1.8rem;
+	padding-left: 1.3rem;
+}
+.buyGoBack img{
+	width: .8rem;
+	display: inline-block;
+	margin-top: 1.28rem;
+}
+.buyDele{
+	z-index: 5;
+	font-size: 1.55rem;
+	float: right;
+	padding-right: 1.3rem;
+	height: 3.92rem;
+}
+.buyTitle{
+	z-index: 1;
+	text-align: center;
+}
+.buyTitle a{
+	font-size: 1.55rem;
+	color: #666;
+}
+
+/*buycar cart*/
+.buyCart{
+
+}
+.buycarList{
+	padding-bottom: 1rem;
+}
+.buycarList .cartList{
+	margin-bottom: 1.2rem;
+	background-color: #fff;
+	overflow: hidden;
+}
+.buycarList .cartList .buycarShop{
+	padding: 1.3rem 1.2rem 1.3rem 1.3rem;
+	overflow: hidden;
+}
+.buycarList .cartList .buycarShop>div{
+	float: left;
+	line-height: 1.44rem;
+}
+.buycarList .cartList .buycarShop .buyBox_btn{
+	width: 2rem;
+	margin-right:1.2rem;
+	overflow: hidden;
+}
+.buycarList .cartList .buycarShop .buyBox_btn .select_shop{
+	margin-left: -10rem;
+}
+.buycarList .cartList .buycarShop .buyBox_btn label{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	background: url("img/check.png")  no-repeat center;
+	background-size: 1.8rem;
+}
+
+/*点击切换没有选中效果*/
+/*.buycarList .cartList .buycarShop .buyBox_btn label{*/
+	/*float: left;*/
+	/*width: 1.44rem;*/
+	/*height: 1.45rem;*/
+	/*background: url("img/noselect.png") center no-repeat;*/
+	/*background-size: 1.44rem;*/
+/*}*/
+
+.buycarList .cartList .buycarShop .buyShop_name{
+	font-size: 1.1rem;
+	max-width: 28rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-top: .4rem;
+}
+.buycarList .cartList .buycarShop .buyFold{
+	float: right;
+	width: 2rem;
+	height:2rem;
+	margin-left: 1.2rem;
+	text-indent: -999em;
+	background: url("img/fold.png") no-repeat 0 -8%;
+	background-size: 4rem;
+	font-size: 1.1rem;
+}
+.buycarList .cartList .buycarShop .buyTotal_price{
+	float: right;
+	font-size: 1.1rem;
+	margin-top: .4rem;
+}
+.buycarList .cartList .buycarShop .buyTotal_price .shop_price_text{
+	color: #ff7a9a;
+}
+.buycarList .cartList .order_goods_list{
+	border-top: 1px solid rgba(51,51,51,0.2);
+}
+.buycarList .cartList .order_goods_list .buycar_goods{
+	width: 60.8rem;
+	margin-left: 1.3rem;
+	padding: 1.3rem;
+	padding-left: 0;
+	overflow: hidden;
+	border-bottom: 1px solid rgba(51,51,51,0.2);
+	display: flex;
+}
+.buycarList .cartList .order_goods_list .buycar_goods:last-child{
+	border-bottom: none;
+}
+.buycarList .cartList .order_goods_list .buycar_goods #btn{
+	width: 2rem;
+	height: 2rem;
+	margin-top: 1.5rem;
+	float: left;
+}
+.buycarList .cartList .order_goods_list .buycar_goods .select_shop{
+	margin-left: -10rem;
+}
+.buycarList .cartList .order_goods_list .buycar_goods label{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	background: url("img/check.png") no-repeat center;
+	background-size: 1.8rem;
+}
+.buycar_goods_main{
+	float: left;
+	margin-left: 1rem;
+	width: 60.16rem;
+	/*background: rosybrown;*/
+}
+.buycar_goods_main>a{
+	position: relative;
+	float: left;
+	width: 5.5rem;
+	height: 5.5rem;
+}
+.buycar_goods_main a img{
+	width:95%;
+	height:100%;
+}
+.buycar_goods_main .buycar_goods_info{
+	/*background: seagreen;*/
+	float: left;
+}
+.buycar_goods_main .buycar_goods_info a>p{
+	width: 10.7rem;
+	height: 1.26rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	font-size: 1rem;
+	line-height: 1.28rem;
+}
+.buycar_goods_main .buycar_goods_info .buycar_goods_prop{
+	font-size: .2rem;
+	color: #999;
+	margin: .3rem 0 1.08rem;
+	overflow: hidden;
+}
+.buycar_goods_main .buycar_goods_info .buycar_goods_prop span{
+	float: left;
+	/*padding-bottom: 1.05rem;*/
+}
+.buycar_goods_main .buycar_goods_info .buycar_goods_prop .style_color{
+	margin-right: 1.05rem;
+}
+.buycar_goods_main .buycar_goods_info .buycar_numBox{
+	position: relative;
+}
+.buycar_goods_main .buycar_goods_info .buycar_numBox .minus{
+	/*text-indent: -999em;*/
+	/*background: url("img/fold.png") no-repeat -12% 54%;*/
+	/*background-size: 1rem;*/
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	border: 1px solid rgba(204,194,201,0.6);
+	text-align: center;
+	line-height: 1.5rem;
+}
+.buycar_goods_main .buycar_goods_info .buycar_goods_count{
+	border: none;
+	margin: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	outline: 0;
+	padding: 0;
+	-webkit-appearance: none;
+	appearance: none;
+	float: left;
+	border-top: 1px solid rgba(204,194,201,0.6);
+	border-bottom: 1px solid rgba(204,194,201,0.6);
+	line-height: 1.9rem;
+	width: 4rem;
+	text-align: center;
+	font-size: 1.28rem;
+	color: #80737b;
+}
+
+.buycar_goods_main .buycar_goods_info .buycar_numBox .add_plus{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	border: 1px solid rgba(204,194,201,0.6);
+	text-align: center;
+	line-height: 2rem;
+	border-top-right-radius: .03rem;
+	border-bottom-right-radius: .03rem;
+	/*text-indent: -999em;*/
+	/*background: url("img/fold.png") no-repeat 126% 55%;*/
+	/*background-size: 1rem;*/
+}
+.buycar_goods_main .buycar_goods_right{
+	position: relative;
+	text-align: right;
+	background: red;
+	width: 3rem;
+	height: 3rem;
+	left: 19rem;
+}
+.buycar_goods_price{
+	color: #ff7a9a;
+	height: 1.24rem;
+	position: absolute;
+	font-size: 1.1rem;
+}
+.buycar_goods_origin_price{
+	margin: 1.12rem 0 1.2rem 0;
+	font-size: 1.2rem;
+	color: #999;
+	text-decoration: line-through;
+	height: 1.2rem;
+	position: absolute;
+	right: 0;
+}
+.buycar_goods_dele_btn{
+	/*position: absolute;*/
+	/*right: -1.1rem;*/
+	/*bottom: -1.35rem;*/
+	/*height: 1.5rem;*/
+	/*width: 1.9rem;*/
+	/*text-align: left;*/
+	/*text-indent: -999em;*/
+	background: url("img/fold.png") no-repeat -337px 9px;
+	background-size: 10rem;
 }
