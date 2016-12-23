@@ -1,0 +1,962 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data": {
+        "total": 1098,
+        "title": "wap图墙",
+        "sort": "pop",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "6abe8d3e-c143-4e6a-8595-aca4f177ab57",
+            "sort": "pop",
+            "eventId": 70003,
+            "cpc_offset": 0,
+            "page": "1",
+            "cKey": "wap-search",
+            "cpcEventId": 70005,
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+            "section": "0",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥498.00",
+                "acm": "3.ms.2_4_1h3fabe.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1h3fabe",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fabe?acm=3.ms.2_4_1h3fabe.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161212/801510422_1h7c24gg3g096ha9ia293c0jf3766_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 7,
+                "title": "1313 撞色飞行员夹克宽松休闲拉链军绿棉衣 79292",
+                "cfav": 33,
+                "price": "￥249.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥226.00",
+                "acm": "3.ms.2_4_1glcapi.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1glcapi",
+                "link": "http://item.meilishuo.com/h5/detail/1glcapi?acm=3.ms.2_4_1glcapi.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160729/1312969971_1je0b37444d9lgl19g44j0589jgfe_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 19,
+                "title": "战地吉普夹克男装外套 秋季宽松休闲薄款男士上衣飞行员夹克",
+                "cfav": 131,
+                "price": "￥158.20",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥918.00",
+                "acm": "3.ms.2_4_1h2ve2q.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1h2ve2q",
+                "link": "http://item.meilishuo.com/h5/detail/1h2ve2q?acm=3.ms.2_4_1h2ve2q.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161118/875860893_7l6hada8e4bl5h1idglb12l9k29i8_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "COCOBELLA飞行员夹克棉服CT569",
+                "cfav": 6,
+                "price": "￥330.48",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥358.00",
+                "acm": "3.ms.2_4_1gpb4r4.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gpb4r4",
+                "link": "http://item.meilishuo.com/h5/detail/1gpb4r4?acm=3.ms.2_4_1gpb4r4.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161007/1307623823_7c4e4idd12lhadc2579b2c043ba63_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 78,
+                "title": "女神新衣冬季新款飞行员夹克皮草羊羔毛绒短款棒球外套",
+                "cfav": 380,
+                "price": "￥93.08",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥495.00",
+                "acm": "3.ms.2_1_1fsttuq.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_140679569_0_1-c1_",
+                "iid": "1fsttuq",
+                "link": "http://item.meilishuo.com/h5/detail/1fsttuq?acm=3.ms.2_1_1fsttuq.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_140679569_0_1-c1_&cparam=MTQ4MjM3NDgyMl8xNWJkODdhX2FhYTBiZWJkNDI1MWYwY2E2ZjllZDk2N2E1MWI0NzdhXzE3XzBfMTQwNjc5NTY5XzAuMjU0N18wXzFfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xNWJkODdhX2FhYTBiZWJkNDI1MWYwY2E2ZjllZDk2N2E1MWI0NzdhXzE3XzBfMTQwNjc5NTY5XzAuMjU0N18wXzFfMQ==",
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/b9/6b/e15ab1f4baf7ae021f25c4d029b4_640_832.cg.jpg_ec762218_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "153",
+                "title": "【包邮】高街！明星款棒球服潮爆棉衣宽松夹克加厚加棉外套女棉服",
+                "cfav": "1089",
+                "price": "￥99.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥560.00",
+                "acm": "3.ms.2_1_1h3k3bc.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_160711879_1524950_2-c1_",
+                "iid": "1h3k3bc",
+                "link": "http://item.meilishuo.com/h5/detail/1h3k3bc?acm=3.ms.2_1_1h3k3bc.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_160711879_1524950_2-c1_&cparam=MTQ4MjM3NDgyMl8xMzI3aWJzXzZhNGQwZjQ1NjExMWFiYzcyNmZkZGRhMmUzZDQ5N2E3XzE3XzFfMTYwNzExODc5XzAuMDI0MV8xNTI0OTUwXzJfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xMzI3aWJzXzZhNGQwZjQ1NjExMWFiYzcyNmZkZGRhMmUzZDQ5N2E3XzE3XzFfMTYwNzExODc5XzAuMDI0MV8xNTI0OTUwXzJfMQ==",
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161220/1184115115_40gjlb7h788a5elgih2a4099l2cb7_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "5",
+                "title": "江疏影何穗同款棒球服棉衣加厚飞行员夹克外套女秋冬棉服情侣装",
+                "cfav": "17",
+                "price": "￥168.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥428.00",
+                "acm": "3.ms.2_4_1h2urx0.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1h2urx0",
+                "link": "http://item.meilishuo.com/h5/detail/1h2urx0?acm=3.ms.2_4_1h2urx0.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161117/1307623823_2cl5d414il0f666fg86901k7628j7_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 22,
+                "title": "女神新衣明星同款红色字母印花贴布飞行员夹克棒球服外套",
+                "cfav": 169,
+                "price": "￥128.40",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥393.00",
+                "acm": "3.ms.2_4_1h32oy8.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1h32oy8",
+                "link": "http://item.meilishuo.com/h5/detail/1h32oy8?acm=3.ms.2_4_1h32oy8.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161126/1148619220_4dajj34d19fb5d2k4eg4febeg52hk_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 39,
+                "title": "明星杨幂同款保暖宽松蝙蝠袖连帽棉衣飞行员夹克外套",
+                "cfav": 173,
+                "price": "￥145.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥560.00",
+                "acm": "3.ms.2_4_1h2sm8w.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1h2sm8w",
+                "link": "http://item.meilishuo.com/h5/detail/1h2sm8w?acm=3.ms.2_4_1h2sm8w.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161115/854338407_0cf8g08e034bl6a226ic52f729b6e_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 34,
+                "title": "【明星同款】杨幂红色冬装连帽飞行员夹克宽松男女外套棉服情侣装",
+                "cfav": 174,
+                "price": "￥167.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥358.00",
+                "acm": "3.ms.2_4_1gpcrxw.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gpcrxw",
+                "link": "http://item.meilishuo.com/h5/detail/1gpcrxw?acm=3.ms.2_4_1gpcrxw.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161005/1307623823_7c9g2f263fg0545j618kf1aa3eicf_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 16,
+                "title": "【女王】韩国GD同款刺绣中国龙飞行员夹克棒球服外套",
+                "cfav": 745,
+                "price": "￥107.40",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥598.00",
+                "acm": "3.ms.2_4_1gmufqe.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1gmufqe",
+                "link": "http://item.meilishuo.com/h5/detail/1gmufqe?acm=3.ms.2_4_1gmufqe.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160912/801510422_2218c8kd83fkj6b8jc27dc2ie60dg_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2,
+                "title": "1313专属定制 酷帅短款棒球服飞行员夹克外套13803-1",
+                "cfav": 186,
+                "price": "￥299.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥994.44",
+                "acm": "3.ms.2_4_1gpu7ci.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1gpu7ci",
+                "link": "http://item.meilishuo.com/h5/detail/1gpu7ci?acm=3.ms.2_4_1gpu7ci.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161015/1061786827_6hhg0fbaif0je5lecl4l1b6haa970_800x1200.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 5,
+                "title": "颖家原创秋冬新款欧美拼皮草袖羊毛呢棒球外套保暖飞行员夹克女潮",
+                "cfav": 269,
+                "price": "￥357.99",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥179.90",
+                "acm": "3.ms.2_4_1h1s23u.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1h1s23u",
+                "link": "http://item.meilishuo.com/h5/detail/1h1s23u?acm=3.ms.2_4_1h1s23u.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161027/1328819879_6ca0188bd0h3d72fi9d77de56732b_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "裂帛所在 秋冬新款 帅气中性短款 飞行员夹克麂皮外套女",
+                "cfav": 12,
+                "price": "￥179.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥156.00",
+                "acm": "3.ms.2_4_1gq591a.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gq591a",
+                "link": "http://item.meilishuo.com/h5/detail/1gq591a?acm=3.ms.2_4_1gq591a.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161013/upload_3efek9j1a3klidk38ga5k97a66kd4_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 17,
+                "title": "秋冬新款飞行员夹克工装徽章军事风棒球领棉衣加厚棒球服外套女",
+                "cfav": 74,
+                "price": "￥106.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥213.00",
+                "acm": "3.ms.2_1_1gmuzgk.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_92554024_0_3-c1_",
+                "iid": "1gmuzgk",
+                "link": "http://item.meilishuo.com/h5/detail/1gmuzgk?acm=3.ms.2_1_1gmuzgk.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_92554024_0_3-c1_&cparam=MTQ4MjM3NDgyMl8xNTlqamFlX2NiMjhkYzdlZjQyMjI1ODBkOTkzOWNlNzllNjk5YjA3XzE3XzJfOTI1NTQwMjRfMC43NjY5XzBfM18x",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xNTlqamFlX2NiMjhkYzdlZjQyMjI1ODBkOTkzOWNlNzllNjk5YjA3XzE3XzJfOTI1NTQwMjRfMC43NjY5XzBfM18x",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161016/1254809059_3ei92j432g87fhl730ae7ba945d4k_640x948.png_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "38",
+                "title": "秋冬季男士夹克棒球衫新款潮男装上衣外套韩版青年修身飞行员夹克",
+                "cfav": "109",
+                "price": "￥149.10",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥238.00",
+                "acm": "3.ms.2_1_1glsn7q.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_159179415_0_4-c1_",
+                "iid": "1glsn7q",
+                "link": "http://item.meilishuo.com/h5/detail/1glsn7q?acm=3.ms.2_1_1glsn7q.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_159179415_0_4-c1_&cparam=MTQ4MjM3NDgyMl8xMnh1b251XzBkNGExMGQyMWQyM2I1ZDBhNjExYTI3OTU3YjQ1ODdiXzE3XzNfMTU5MTc5NDE1XzAuNjg3N18wXzRfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xMnh1b251XzBkNGExMGQyMWQyM2I1ZDBhNjExYTI3OTU3YjQ1ODdiXzE3XzNfMTU5MTc5NDE1XzAuNjg3N18wXzRfMQ==",
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160817/1279705187_76kj3hbb8aak03hh2b5a1l0l0f29g_1000x1500.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "0",
+                "title": "秋季新款情侣装刺绣棒球服夹克飞行员夹克男薄款复古潮学生夹克衫",
+                "cfav": "7",
+                "price": "￥166.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥139.00",
+                "acm": "3.ms.2_4_1grptpw.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1grptpw",
+                "link": "http://item.meilishuo.com/h5/detail/1grptpw?acm=3.ms.2_4_1grptpw.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161019/1274300345_68hdi92b63kk1bi04b58aake49b2i_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 28,
+                "title": "徽章贴布加厚飞行员夹克棉衣棉服外套女",
+                "cfav": 357,
+                "price": "￥90.35",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥271.00",
+                "acm": "3.ms.2_4_1h1s3yq.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1h1s3yq",
+                "link": "http://item.meilishuo.com/h5/detail/1h1s3yq?acm=3.ms.2_4_1h1s3yq.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161027/1246655741_83hjca7g4c5j775k8ac68j3g410ke_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 13,
+                "title": "秋冬新款韩版重工刺绣宽松飞行员夹克女棉服短款加厚棒球服外套",
+                "cfav": 260,
+                "price": "￥189.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥172.00",
+                "acm": "3.ms.2_4_1gn0gho.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gn0gho",
+                "link": "http://item.meilishuo.com/h5/detail/1gn0gho?acm=3.ms.2_4_1gn0gho.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160913/he4ttt_17ejfif4f94kele8l655deh1b1388_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 8,
+                "title": "韩版宽松BF风棒球服短款飞行员夹克外套女",
+                "cfav": 51,
+                "price": "￥86.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥208.60",
+                "acm": "3.ms.2_4_1gsn9yc.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gsn9yc",
+                "link": "http://item.meilishuo.com/h5/detail/1gsn9yc?acm=3.ms.2_4_1gsn9yc.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161022/956500452_59lacbb1i7f6khf7gl5id2d33lfc6_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 7,
+                "title": "Gigi Hadid明星同款飞行员夹克棒球服bf风外套棉服",
+                "cfav": 37,
+                "price": "￥125.16",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥747.22",
+                "acm": "3.ms.2_4_1gls7rc.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1gls7rc",
+                "link": "http://item.meilishuo.com/h5/detail/1gls7rc?acm=3.ms.2_4_1gls7rc.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160816/1061786827_0gcf8lhede5ge0j21978fg782274g_700x1050.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "颖家原创秋装新品学院风俏皮可爱木耳边休闲棒球服外套飞行员夹克",
+                "cfav": 85,
+                "price": "￥268.99",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥368.57",
+                "acm": "3.ms.2_4_1fuil5m.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1fuil5m",
+                "link": "http://item.meilishuo.com/h5/detail/1fuil5m?acm=3.ms.2_4_1fuil5m.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/b3/a8/2008717e65a1ec5089c8e27e184a_700_1050.cj.jpg_6c4a16ff_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 8,
+                "title": "颖家原创中国风刺绣设计休闲百搭黑色棒球服外套飞行员夹克",
+                "cfav": 4366,
+                "price": "￥257.99",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥966.67",
+                "acm": "3.ms.2_4_1gn0dla.0.8239.05NOQq64RGEDs.t_0",
+                "iid": "1gn0dla",
+                "link": "http://item.meilishuo.com/h5/detail/1gn0dla?acm=3.ms.2_4_1gn0dla.0.8239.05NOQq64RGEDs.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160910/1061786827_8h56fe1318hikbi7d9l8f68l931b5_800x1200.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "颖家原创秋新品高端限量横须贺真丝刺绣两面穿棒球外套飞行员夹克",
+                "cfav": 45,
+                "price": "￥348.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥126.00",
+                "acm": "3.ms.2_4_1gpvscg.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gpvscg",
+                "link": "http://item.meilishuo.com/h5/detail/1gpvscg?acm=3.ms.2_4_1gpvscg.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161012/800011973_1fb26a2ca19d03a2a290862896a04_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 71,
+                "title": "韩版秋冬装新款原宿风羊羔毛宽松加厚棒球服外套女短款飞行员夹克",
+                "cfav": 712,
+                "price": "￥78.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥241.00",
+                "acm": "3.ms.2_1_1glvexi.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_88895633_0_5-c1_",
+                "iid": "1glvexi",
+                "link": "http://item.meilishuo.com/h5/detail/1glvexi?acm=3.ms.2_1_1glvexi.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_88895633_0_5-c1_&cparam=MTQ4MjM3NDgyMl8xNTlqajl3X2QyNTc1NDQ0YzYxOGZkNTE1MzNhM2U3ZGJmNzM0NTI5XzE3XzRfODg4OTU2MzNfMS41OF8wXzVfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xNTlqajl3X2QyNTc1NDQ0YzYxOGZkNTE1MzNhM2U3ZGJmNzM0NTI5XzE3XzRfODg4OTU2MzNfMS41OF8wXzVfMQ==",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160822/kr2wv7_0ecf1i15c4e5g079il28d4ihcdf5g_640x842.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "30",
+                "title": "秋冬男皮衣夹克棒球衫韩版青年修身飞行员夹克男装外套男士上衣",
+                "cfav": "80",
+                "price": "￥168.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥218.00",
+                "acm": "3.ms.2_1_1gmtg9w.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_159179406_0_6-c1_",
+                "iid": "1gmtg9w",
+                "link": "http://item.meilishuo.com/h5/detail/1gmtg9w?acm=3.ms.2_1_1gmtg9w.1.5865-5765-5731-5735.05NOQq64RGEDs.t_0-c_1_17_159179406_0_6-c1_&cparam=MTQ4MjM3NDgyMl8xMWtfMTllY2I5NjEzZGYwY2UzMTQxOTI3ZGJhZmFiNGFiYWFfMTdfNV8xNTkxNzk0MDZfMF8wXzZfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NDgyMl8xMWtfMTllY2I5NjEzZGYwY2UzMTQxOTI3ZGJhZmFiNGFiYWFfMTdfNV8xNTkxNzk0MDZfMF8wXzZfMQ==",
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160908/1279705187_1e85ha1j8egf79ldgb3ij6fed7aag_1000x1500.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "3",
+                "title": "港仔秋装飞行员夹克男士刺绣潮情侣短款外套青年休闲宽松棒球上衣",
+                "cfav": "26",
+                "price": "￥152.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥496.00",
+                "acm": "3.ms.2_4_1gnr300.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gnr300",
+                "link": "http://item.meilishuo.com/h5/detail/1gnr300?acm=3.ms.2_4_1gnr300.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160920/865874928_8d5laa4da78cjh3j42ghid8c9l4ef_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 25,
+                "title": "秋冬军绿色飞行员夹克棉服宽松长袖V领夹棉加厚棒球服短外套女",
+                "cfav": 195,
+                "price": "￥238.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥170.00",
+                "acm": "3.ms.2_4_1gp1is0.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gp1is0",
+                "link": "http://item.meilishuo.com/h5/detail/1gp1is0?acm=3.ms.2_4_1gp1is0.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161002/1319869881_1329028iejkd8l127bic388fljfbb_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 11,
+                "title": "秋冬新款宽松bf棒球服军绿短款飞行员大码胖mm夹克棉服外套女",
+                "cfav": 83,
+                "price": "￥109.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥226.00",
+                "acm": "3.ms.2_4_1goygnm.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1goygnm",
+                "link": "http://item.meilishuo.com/h5/detail/1goygnm?acm=3.ms.2_4_1goygnm.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161011/935601805_82e2h7fj2l6h1dae7k29112kbh1db_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 5,
+                "title": "【包邮】帅炸重工两面穿银色袖刺绣横须加厚飞行员夹克棒球外套",
+                "cfav": 20,
+                "price": "￥145.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥296.00",
+                "acm": "3.ms.2_4_1gmt7mu.0.24468.05NOQq64RGEDs.t_0",
+                "iid": "1gmt7mu",
+                "link": "http://item.meilishuo.com/h5/detail/1gmt7mu?acm=3.ms.2_4_1gmt7mu.0.24468.05NOQq64RGEDs.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160903/1261107745_40c34h8bbjlic6g083ki39bj7d3fk_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 30,
+                "title": "奥派阿西拼接外套男士秋季潮流韩版棒球服青年飞行员夹克男薄款",
+                "cfav": 146,
+                "price": "￥128.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            }
+        ],
+        "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+        "filter": {
+            "title": "wap图墙",
+            "list": [
+                {
+                    "title": "综合",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "销量",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "最新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                }
+            ]
+        }
+    }
+}

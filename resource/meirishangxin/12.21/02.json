@@ -1,0 +1,849 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data": {
+        "total": 3638,
+        "sort": "new",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "_mgjuuid": "4b145049-bf46-4860-896e-30a0890f70aa",
+            "sort": "new",
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "ptpWallDoc": "_wall_docs",
+            "cpc_offset": 0,
+            "eventId": 70003,
+            "cKey": "new",
+            "page": "2",
+            "fcid": "10057813",
+            "cpcEventId": 70005,
+            "ptpPartC": "_mb_mls_10057813_new_noab-noab",
+            "minPrice": "5"
+        },
+        "page": 2,
+        "list": [
+            {
+                "orgPrice": "￥123.00",
+                "acm": "3.ms.2_4_1h3ksj0.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3ksj0",
+                "link": "http://item.meilishuo.com/h5/detail/1h3ksj0?acm=3.ms.2_4_1h3ksj0.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1461439625_3a6hf48a9k5k87gf1e2ae8h2336b3_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【WISUNY/微...】v领套头宽松毛衣女韩版秋冬季新款百搭学生长袖短款打底衫针织衫",
+                "cfav": 0,
+                "price": "￥86.10",
+                "tradeItemId": 516966938,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327790
+            },
+            {
+                "orgPrice": "￥449.00",
+                "acm": "3.ms.2_4_1h3kwju.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kwju",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kwju?acm=3.ms.2_4_1h3kwju.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/930544508_8eegf733b44g7lh66ihjebg3ecl7a_798x1198.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 481
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "冬季新款女韩狐狸毛领加厚A字显瘦中长款羽绒服大码羽绒棉衣",
+                "cfav": 0,
+                "price": "￥449.00",
+                "tradeItemId": 516969545,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327768
+            },
+            {
+                "orgPrice": "￥150.00",
+                "acm": "3.ms.2_4_1h3kt5k.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kt5k",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kt5k?acm=3.ms.2_4_1h3kt5k.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "img": "http://s11.mogucdn.com/p2/161221/1249461317_8ecd004jaieh9jaghg9l23debfkle_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "2016冬季新款棉衣女短款学生韩版修身显瘦连帽小棉袄羽绒棉服",
+                "cfav": 0,
+                "price": "￥105.00",
+                "tradeItemId": 516967344,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327766
+            },
+            {
+                "orgPrice": "￥108.00",
+                "acm": "3.ms.2_4_1h3kxo8.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kxo8",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kxo8?acm=3.ms.2_4_1h3kxo8.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/871767055_5a5g83l1ee3dkl4d24d9da5glji3a_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "甜美学院风蝴蝶结长袖毛呢连衣裙秋冬气质优雅学生打底a字短裙",
+                "cfav": 0,
+                "price": "￥75.60",
+                "tradeItemId": 516970272,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327724
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1h3ky0c.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3ky0c",
+                "link": "http://item.meilishuo.com/h5/detail/1h3ky0c?acm=3.ms.2_4_1h3ky0c.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/877218275_365bfadia24bfig175il3hgjg789k_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "新款打底衫2016韩版毛衣女秋冬套头修身显瘦一字领漏肩螺纹针",
+                "cfav": 0,
+                "price": "￥99.00",
+                "tradeItemId": 516970490,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327722
+            },
+            {
+                "orgPrice": "￥167.00",
+                "acm": "3.ms.2_4_1h3krn0.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krn0",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krn0?acm=3.ms.2_4_1h3krn0.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/836090239_05i5cb9gek3f7jigd2he27e4a653e_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "2017早春新款时尚金属扣单鞋显瘦方头女鞋舒适绒面浅口平底鞋",
+                "cfav": 0,
+                "price": "￥167.00",
+                "tradeItemId": 516966362,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327712
+            },
+            {
+                "orgPrice": "￥40.00",
+                "acm": "3.ms.2_4_1h3kylq.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kylq",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kylq?acm=3.ms.2_4_1h3kylq.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1275675123_4hkh241dlbbed7g958hbili94lgkc_640x832.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "春秋女装宽松学生款短袖白色上衣学院风纯色开叉圆领半袖t恤女夏",
+                "cfav": 0,
+                "price": "￥28.00",
+                "tradeItemId": 516970875,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327705
+            },
+            {
+                "orgPrice": "￥240.00",
+                "acm": "3.ms.2_4_1h3krmy.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krmy",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krmy?acm=3.ms.2_4_1h3krmy.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/860969860_2flij7ighiia02f39gikl0k61ike3_640x900.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 450
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "高跟单鞋 欧美性感超高跟春新款单鞋尖头内防水台渐变色显瘦女鞋",
+                "cfav": 1,
+                "price": "￥168.00",
+                "tradeItemId": 516966361,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327692
+            },
+            {
+                "orgPrice": "￥109.00",
+                "acm": "3.ms.2_4_1h3krxc.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krxc",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krxc?acm=3.ms.2_4_1h3krxc.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/961275456_7bl9a7a2kkf220g8ghf4alca48i0g_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【Happy Time...】2016冬季新款蜥蜴纹手提包欧美时尚潮流锁扣小方包休闲单肩包",
+                "cfav": 0,
+                "price": "￥109.00",
+                "tradeItemId": 516966548,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327680
+            },
+            {
+                "orgPrice": "￥110.00",
+                "acm": "3.ms.2_4_1h3ku2o.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3ku2o",
+                "link": "http://item.meilishuo.com/h5/detail/1h3ku2o?acm=3.ms.2_4_1h3ku2o.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474410221_7edg83lg9ak8jfdk3h1flcba399kf_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】2016秋冬韩版钉珠荷叶边长袖针织连衣裙中长款鱼尾下摆打底裙",
+                "cfav": 0,
+                "price": "￥77.00",
+                "tradeItemId": 516967940,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327655
+            },
+            {
+                "orgPrice": "￥99.99",
+                "acm": "3.ms.2_4_1h3kqzs.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kqzs",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kqzs?acm=3.ms.2_4_1h3kqzs.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1301348079_6cddek57lg7gb03adh4e6i4ciblh3_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "秋装女装大码中长款显瘦打底收腰大摆裙子秋款长袖蕾丝连衣裙",
+                "cfav": 1,
+                "price": "￥69.99",
+                "tradeItemId": 516965944,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327638
+            },
+            {
+                "orgPrice": "￥196.00",
+                "acm": "3.ms.2_4_1h3kuea.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kuea",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kuea?acm=3.ms.2_4_1h3kuea.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/865608948_6dc0cda5814cfi43746dh1d75g04d_640x832.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "复古拼色撞色天鹅绒短袖圆领百褶裙连衣裙长裙",
+                "cfav": 0,
+                "price": "￥98.00",
+                "tradeItemId": 516968149,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327615
+            },
+            {
+                "orgPrice": "￥55.00",
+                "acm": "3.ms.2_4_1h3krao.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krao",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krao?acm=3.ms.2_4_1h3krao.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474380266_1kk6hh7564729bl58gghdbkg9dbld_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】女士包包2016秋冬新款女包手提包简约时尚单肩包斜挎小包包流",
+                "cfav": 0,
+                "price": "￥38.50",
+                "tradeItemId": 516966140,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327606
+            },
+            {
+                "orgPrice": "￥147.00",
+                "acm": "3.ms.2_4_1h3kt5e.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kt5e",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kt5e?acm=3.ms.2_4_1h3kt5e.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/upload_7e5e5bc1l8b1ijjdjh1l1kgkl35c5_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "大口袋牛仔背带裤学院风背带裤米老鼠绣花牛仔长裤",
+                "cfav": 0,
+                "price": "￥102.90",
+                "tradeItemId": 516967341,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327559
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1h3kunk.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kunk",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kunk?acm=3.ms.2_4_1h3kunk.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/961275456_3ghlgd9078l9g1khhafac3h9g3f67_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【Happy Time...】2016女包时尚潮流蜥蜴纹小方包冬季新款潮流锁扣单肩包手提斜",
+                "cfav": 0,
+                "price": "￥99.00",
+                "tradeItemId": 516968316,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327544
+            },
+            {
+                "orgPrice": "￥65.00",
+                "acm": "3.ms.2_4_1h3kram.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kram",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kram?acm=3.ms.2_4_1h3kram.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474380266_33f4kca7d9290g2kd29c582acg021_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】2016新款秋冬韩版潮时尚斜挎包女士包包手提包复古小方包单肩",
+                "cfav": 0,
+                "price": "￥45.50",
+                "tradeItemId": 516966139,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327483
+            },
+            {
+                "orgPrice": "￥129.00",
+                "acm": "3.ms.2_4_1h3krx4.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krx4",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krx4?acm=3.ms.2_4_1h3krx4.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/961275456_6l4d89ddf60al99i98c2df0kc38hl_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【Happy Time...】2016女包时尚休闲编织手提包冬季新款复古托特包流苏单肩包斜",
+                "cfav": 0,
+                "price": "￥129.00",
+                "tradeItemId": 516966544,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327416
+            },
+            {
+                "orgPrice": "￥85.00",
+                "acm": "3.ms.2_4_1h3ks9y.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3ks9y",
+                "link": "http://item.meilishuo.com/h5/detail/1h3ks9y?acm=3.ms.2_4_1h3ks9y.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/879117690_8322i17fa21b5il2f232fgj3blgci_640x832.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "女装韩版半高领长袖打底衫加厚针织衫女套头毛衣女宽松秋冬季外套",
+                "cfav": 0,
+                "price": "￥59.50",
+                "tradeItemId": 516966775,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327399
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_4_1h3krmo.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krmo",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krmo?acm=3.ms.2_4_1h3krmo.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474380266_1gka7k8hc30b08214bgk21h6hi7bh_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】秋冬小包包2016新款时尚潮流女包韩版复古简约小方包单肩包斜",
+                "cfav": 0,
+                "price": "￥35.00",
+                "tradeItemId": 516966356,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327367
+            },
+            {
+                "orgPrice": "￥139.00",
+                "acm": "3.ms.2_4_1h3kqzm.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kqzm",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kqzm?acm=3.ms.2_4_1h3kqzm.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1336089095_0c61ljj0j240h544gff9k1ieb8hig_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【芝顿】毛呢外套女中长款呢子大衣2016秋冬新款红色加厚韩版修身显瘦",
+                "cfav": 0,
+                "price": "￥139.00",
+                "tradeItemId": 516965941,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327315
+            },
+            {
+                "orgPrice": "￥139.00",
+                "acm": "3.ms.2_4_1h3kwjg.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kwjg",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kwjg?acm=3.ms.2_4_1h3kwjg.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/961275456_6772k91i375g6jd075fll1g7illfj_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【Happy Time...】小包2016韩版时尚链条手提包冬季新款潮流单肩包小方包斜挎包",
+                "cfav": 0,
+                "price": "￥139.00",
+                "tradeItemId": 516969538,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327300
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_4_1h3kt56.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kt56",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kt56?acm=3.ms.2_4_1h3kt56.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474380266_07ffbk0cb3ja6a3ackibh66cej6j7_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】2016新款日韩流苏小方包时尚休闲小包包百搭女士单肩包斜跨包",
+                "cfav": 0,
+                "price": "￥35.00",
+                "tradeItemId": 516967337,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327270
+            },
+            {
+                "orgPrice": "￥5.00",
+                "acm": "3.ms.2_4_1h3kv9g.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kv9g",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kv9g?acm=3.ms.2_4_1h3kv9g.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/upload_4g6fe9ag05c8l760ideacb4857i0j_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "包邮春秋韩版显瘦裙子黑白格子拼接毛呢韩版修身长袖打底连衣裙潮",
+                "cfav": 0,
+                "price": "￥5.00",
+                "tradeItemId": 516968710,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327264
+            },
+            {
+                "orgPrice": "￥110.00",
+                "acm": "3.ms.2_4_1h3krai.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krai",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krai?acm=3.ms.2_4_1h3krai.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/873957812_4c176ek73b3247210fb1l7jlbf5e6_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【莱卡金顿】日系文艺森女系刺绣花圆领中长款长袖大码双层纱连衣裙女秋冬新款",
+                "cfav": 0,
+                "price": "￥110.00",
+                "tradeItemId": 516966137,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327252
+            },
+            {
+                "orgPrice": "￥85.00",
+                "acm": "3.ms.2_4_1h3kwtu.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kwtu",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kwtu?acm=3.ms.2_4_1h3kwtu.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474285775_82b46d1kc5481gkejcjl56922hb8c_640x960.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 480
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "秋冬新款粗跟高跟马丁靴潮女鞋短靴圆头复古英伦风磨砂靴子潮",
+                "cfav": 1,
+                "price": "￥59.50",
+                "tradeItemId": 516969725,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327248
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_4_1h3kvjq.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3kvjq",
+                "link": "http://item.meilishuo.com/h5/detail/1h3kvjq?acm=3.ms.2_4_1h3kvjq.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/1474380266_01galj9gda6kl8dcf651902bhiekg_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【小布家】女士手机包2016新款潮包包女生小方包手提包斜挎包单肩包迷你",
+                "cfav": 0,
+                "price": "￥35.00",
+                "tradeItemId": 516968895,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327166
+            },
+            {
+                "orgPrice": "￥108.00",
+                "acm": "3.ms.2_4_1h3krmk.0.13386.cmGCJq61K38yz.t_0",
+                "iid": "1h3krmk",
+                "link": "http://item.meilishuo.com/h5/detail/1h3krmk?acm=3.ms.2_4_1h3krmk.0.13386.cmGCJq61K38yz.t_0",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "img": "http://s2.mogucdn.com/p2/161221/961275456_7kfa7dhieie6e1i17lj03c97k0h4d_640x842.jpg_320x999.jpg",
+                    "w": 320,
+                    "h": 421
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【Happy Time...】小方包2016冬季新款蜥蜴纹手提包时尚潮流锁扣单肩包斜挎包女",
+                "cfav": 0,
+                "price": "￥108.00",
+                "tradeItemId": 516966354,
+                "ptpC": "_mb_mls_10057813_new_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ],
+                "shelfTime": 1482327145
+            }
+        ],
+        "ptpPartC": "_mb_mls_10057813_new_noab-noab",
+        "filter": {
+            "title": "上新图墙",
+            "list": [
+                {
+                    "title": "最新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "10057813",
+                    "type": "sort"
+                },
+                {
+                    "title": "销量",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "10057813",
+                    "type": "sort"
+                },
+                {
+                    "title": "流行",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "10057813",
+                    "type": "sort"
+                },
+                {
+                    "title": "价格",
+                    "sort": null,
+                    "style": {
+                        "desc": "price_desc",
+                        "asc": "price_asc"
+                    },
+                    "fcid": "10057813",
+                    "type": "sortDesc"
+                }
+            ]
+        }
+    }
+}
