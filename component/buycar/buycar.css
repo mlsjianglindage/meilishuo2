@@ -78,11 +78,19 @@
 
 /*点击切换没有选中效果*/
 /*.buycarList .cartList .buycarShop .buyBox_btn label{*/
+<<<<<<< HEAD
 	/*float: left;*/
 	/*width: 1.44rem;*/
 	/*height: 1.45rem;*/
 	/*background: url("img/noselect.png") center no-repeat;*/
 	/*background-size: 1.44rem;*/
+=======
+/*float: left;*/
+/*width: 1.44rem;*/
+/*height: 1.45rem;*/
+/*background: url("img/noselect.png") center no-repeat;*/
+/*background-size: 1.44rem;*/
+>>>>>>> hulu
 /*}*/
 
 .buycarList .cartList .buycarShop .buyShop_name{
