@@ -52,6 +52,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'moreCtrl',
             css:'component/category/more/more.css'
         })
+         
         .state("buycar", {
             url: "/buycar",
             templateUrl: "component/buycar/buycar.html",

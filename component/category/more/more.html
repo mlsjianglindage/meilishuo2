@@ -10,19 +10,38 @@
 
     <div class="moreTop">
         <ul>
-            <li class="moreTopLi">流行</li>
-            <li>热销</li>
-            <li>价格 <i class="fa fa-angle-down"></i></li>
+            <li ng-click="moreFashion()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor1]" class="moreTopLi">流行</li>
+            <li ng-click="moreHot()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor2]">热销</li>
+            <li ng-click="morePrice()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor3]">价格 <i class="fa fa-angle-down"></i></li>
         </ul>
     </div>
-
+    <div class="clearfix"></div>
     <div class="moreCount">
-        <ul>
-            <li>
-                <img src="http://s2.mogucdn.com/p2/161102/1310453707_3ihl4b0g2g2bg06db0jd27g070l58_640x832.jpg_320x999.webp" alt="">
-                <p>秋冬季新品系带风衣女中长款外套上衣双排扣韩版修身大码女装热销</p>
-                <span>¥168.00</span><span>¥280.00</span>
-                <p>67人已购买</p>
+        <ul class="moreCountUl-1">
+            <li ng-repeat="obj in arr" ng-show="!show1">
+                <img src="{{obj.show.img}}" alt="">
+                <p>{{obj.title}}</p>
+                <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>
+                <p>{{obj.cfav}}人已购买</p>
+                <!--<img class="moreCountLastImg" src="{{obj.lefttop_taglist.img}}">-->
+            </li>
+        </ul>
+        <ul class="moreCountUl-2" ng-show="!show2">
+            <li ng-repeat="obj in arr1">
+                <img src="{{obj.show.img}}" alt="">
+                <p>{{obj.title}}</p>
+                <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>
+                <p>{{obj.cfav}}人已购买</p>
+                <!--<img class="moreCountLastImg" src="{{obj.lefttop_taglist.img}}">-->
+            </li>
+        </ul>
+        <ul class="moreCountUl-3" ng-show="!show3">
+            <li ng-repeat="obj in arr2">
+                <img src="{{obj.show.img}}" alt="">
+                <p>{{obj.title}}</p>
+                <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>
+                <p>{{obj.cfav}}人已购买</p>
+                <!--<img class="moreCountLastImg" src="{{obj.lefttop_taglist.img}}">-->
             </li>
         </ul>
     </div>
