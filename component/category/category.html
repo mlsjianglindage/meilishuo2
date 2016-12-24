@@ -1,9 +1,123 @@
 <div data-ui-view="" id="category">
-	<div class="categoryTopimg">
-		<img src="img/categorytop.png" alt="">
-	</div>
-	<div class="categorySearch">
-		<div class="categoryDazuiba"></div>
-		<input type="search" autocomplete="off" placeholder="毛呢外套" data-value="毛呢外套">
-	</div>
+    <div class="categoryTopimg">
+        <img src="img/categorytop.png" alt="">
+    </div>
+    <div class="categorySearch">
+        <div class="categoryDazuiba"><a href="#home"></a></div>
+        <input type="search" autocomplete="off" placeholder="毛呢外套" data-value="毛呢外套">
+        <div class="categorySearchDian"></div>
+    </div>
+
+    <div class="categoryAllClassTopImg">
+        <img src="http://s16.mogucdn.com/p2/160902/upload_8f08e2a43gch3k70d9abfcbdd7bcg_750x98.png_750x999.v1c7E.70.webp" alt="">
+    </div>
+
+    <div id="categoryCount">
+        <div class="categoryCount">
+            <ul >
+                <li ng-repeat="obj in arr">
+                    <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+
+    <div id="categorySale">
+        <div class="categorySaleImg">
+            <img src="http://s16.mogucdn.com/p2/160902/upload_0019l9a7geh10e34ca98153h3hakg_750x98.png_750x999.v1c7E.70.webp" alt="">
+        </div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>热销女装</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr1">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>时髦美裙</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr2">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>精选裤子</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr3">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>百搭鞋品</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr4">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>百搭包配</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr5">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>正品美妆</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr6">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="categoryMore">
+            <div class="categorySaleText">
+                <span>家具美食</span><a href="">查看更多 <i class="fa fa-angle-right fa-2x"></i></a>
+            </div>
+            <div class="categoryCount-2">
+                <ul >
+                    <li ng-repeat="obj in arr7">
+                        <a href="{{obj.link}}"><img src="{{obj.image}}" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
 </div>
