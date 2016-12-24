@@ -1,0 +1,1698 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data1": {
+        "total": 47925,
+        "title": "wap图墙",
+        "sort": "pop",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "c779689e-0a1f-4071-b6ba-978142092c03",
+            "sort": "pop",
+            "eventId": 70003,
+            "cpc_offset": 0,
+            "page": "1",
+            "cKey": "wap-search",
+            "cpcEventId": 70005,
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+            "section": "0",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥138.00",
+                "acm": "3.ms.2_4_1h3jn68.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1h3jn68",
+                "link": "http://item.meilishuo.com/h5/detail/1h3jn68?acm=3.ms.2_4_1h3jn68.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161220/869844416_10l5agdh049acf8lkea7cb5l90jd8_750x1000.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "毛菇小象短裤女秋冬款外穿高腰条纹阔腿裤显瘦裤子短裤包臀裤",
+                "cfav": 8,
+                "price": "￥69.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥199.00",
+                "acm": "3.ms.2_4_1funi7u.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1funi7u",
+                "link": "http://item.meilishuo.com/h5/detail/1funi7u?acm=3.ms.2_4_1funi7u.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/b0/25/1e8153e590b0dac83b5c52ad996b_640_832.cj.jpg_9481819f_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3,
+                "title": "茵曼2016春秋新款复古文艺磨白牛仔裤女裤铅笔裤长裤子",
+                "cfav": 91,
+                "price": "￥199.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥142.00",
+                "acm": "3.ms.2_4_1grh8so.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1grh8so",
+                "link": "http://item.meilishuo.com/h5/detail/1grh8so?acm=3.ms.2_4_1grh8so.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161109/862720156_6k3731l57dd802bbif9h66hdk2256_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 36,
+                "title": "ZZ大小姐新品简约百搭长裤修身显瘦牛仔裤纯色裤子",
+                "cfav": 79,
+                "price": "￥142.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥158.14",
+                "acm": "3.ms.2_4_1h3bpje.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h3bpje",
+                "link": "http://item.meilishuo.com/h5/detail/1h3bpje?acm=3.ms.2_4_1h3bpje.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161206/1489163277_53b383l4bkk511kgk5lbf69d3h77l_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 106,
+                "title": "哈伦裤秋冬裤子PU皮裤外穿加绒加厚宽松九分休闲裤",
+                "cfav": 667,
+                "price": "￥94.88",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥127.15",
+                "acm": "3.ms.2_1_1h3fe9k.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_159203569_0_1-c1_",
+                "iid": "1h3fe9k",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fe9k?acm=3.ms.2_1_1h3fe9k.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_159203569_0_1-c1_&cparam=MTQ4MjM4MzI4MF8xNDJ0cmZ5Xzc1ZmNmZDUyMjBhNThhNGRhOGMyMWUyNzNlZWMzOTBmXzE3XzBfMTU5MjAzNTY5XzAuMzU3OF8wXzFfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xNDJ0cmZ5Xzc1ZmNmZDUyMjBhNThhNGRhOGMyMWUyNzNlZWMzOTBmXzE3XzBfMTU5MjAzNTY5XzAuMzU3OF8wXzFfMQ==",
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161212/eqd78c_5bc23k42bh9l56ce3a4g8a2fg0h6k_885x1165.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "26",
+                "title": "毛呢裤2016新款加厚宽松条纹背带裤学生休闲连体裤休闲裤",
+                "cfav": "188",
+                "price": "￥87.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥216.00",
+                "acm": "3.ms.2_1_1gsvtdo.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_123306235_0_2-c1_",
+                "iid": "1gsvtdo",
+                "link": "http://item.meilishuo.com/h5/detail/1gsvtdo?acm=3.ms.2_1_1gsvtdo.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_123306235_0_2-c1_&cparam=MTQ4MjM4MzI4MF8xM3o1cWFvX2RiZGE5ZmFiMzgzYzgzZWY1OGQzZGExMWM4Yzc4NDYwXzE3XzFfMTIzMzA2MjM1XzEuNTYwNV8wXzJfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xM3o1cWFvX2RiZGE5ZmFiMzgzYzgzZWY1OGQzZGExMWM4Yzc4NDYwXzE3XzFfMTIzMzA2MjM1XzEuNTYwNV8wXzJfMQ==",
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161025/874002007_2l4lkf42h1b78dbck1b5fa60jck91_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "419",
+                "title": "秋冬加绒牛仔裤女小脚裤修身显瘦铅笔裤高腰弹力长裤女加长裤子潮",
+                "cfav": "575",
+                "price": "￥99.36",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥113.00",
+                "acm": "3.ms.2_4_1h38fo8.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h38fo8",
+                "link": "http://item.meilishuo.com/h5/detail/1h38fo8?acm=3.ms.2_4_1h38fo8.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161206/1489204497_704b2jaae425cc8k84f58k6d0e5aj_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 155,
+                "title": "2016秋冬竖纹微压力显瘦加厚加绒加厚保暖裤子",
+                "cfav": 792,
+                "price": "￥75.71",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥360.00",
+                "acm": "3.ms.2_4_1fqqo2a.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1fqqo2a",
+                "link": "http://item.meilishuo.com/h5/detail/1fqqo2a?acm=3.ms.2_4_1fqqo2a.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/5c/a3/27a6ffcdc7dfce26fc9f48ff41de_640_837.ch.jpg_e91b543c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1450,
+                "title": "秋装高腰牛仔裤长裤加绒小脚裤显瘦弹力紧身裤子铅笔裤休闲高腰裤",
+                "cfav": 17424,
+                "price": "￥97.20",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥112.86",
+                "acm": "3.ms.2_4_1h2mu42.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2mu42",
+                "link": "http://item.meilishuo.com/h5/detail/1h2mu42?acm=3.ms.2_4_1h2mu42.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161113/945652358_5a3b84c958d3b801fh5kf8f78hg7c_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 95,
+                "title": "秋冬新款加厚毛呢阔腿裤女九分裤韩版高腰呢子宽腿休闲裤直筒裤子",
+                "cfav": 385,
+                "price": "￥75.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥216.00",
+                "acm": "3.ms.2_4_1gsvtdo.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1gsvtdo",
+                "link": "http://item.meilishuo.com/h5/detail/1gsvtdo?acm=3.ms.2_4_1gsvtdo.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161025/874002007_2l4lkf42h1b78dbck1b5fa60jck91_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 419,
+                "title": "秋冬加绒牛仔裤女小脚裤修身显瘦铅笔裤高腰弹力长裤女加长裤子潮",
+                "cfav": 575,
+                "price": "￥99.36",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥69.00",
+                "acm": "3.ms.2_4_1glxsh0.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1glxsh0",
+                "link": "http://item.meilishuo.com/h5/detail/1glxsh0?acm=3.ms.2_4_1glxsh0.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160826/869844416_6b29gh83f4d8ib5c2j4h6e4g9fkdd_800x1200.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 14,
+                "title": "毛菇小象 欧美小脚铅笔裤外穿打底裤女长裤秋季百搭显瘦裤子",
+                "cfav": 117,
+                "price": "￥69.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥359.80",
+                "acm": "3.ms.2_4_1h3330k.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1h3330k",
+                "link": "http://item.meilishuo.com/h5/detail/1h3330k?acm=3.ms.2_4_1h3330k.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161126/880584288_3664jif163gd6k1bl9j921g38ak52_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "七格格冬新款铅做旧加绒休闲牛仔裤 女裤子",
+                "cfav": 14,
+                "price": "￥179.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥269.00",
+                "acm": "3.ms.2_4_1glotdg.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1glotdg",
+                "link": "http://item.meilishuo.com/h5/detail/1glotdg?acm=3.ms.2_4_1glotdg.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/160815/948473440_2gjck1ll106eid5kjj79k7difc6bd_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 3,
+                "title": "糖力2016秋装新款欧美黑色阔腿裤高腰开叉九分裤宽松裤子",
+                "cfav": 142,
+                "price": "￥255.55",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1gq63re.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1gq63re",
+                "link": "http://item.meilishuo.com/h5/detail/1gq63re?acm=3.ms.2_4_1gq63re.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161013/1474564584_4ie8jkag9dc0d8ll3308f32bha228_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 655,
+                "title": "阔腿裤女冬毛呢裤子垮裤秋冬九分裤韩版女裤黑色休闲裤宽松萝卜裤",
+                "cfav": 1972,
+                "price": "￥63.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥360.00",
+                "acm": "3.ms.2_1_1fqqo2a.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_120226196_0_3-c1_",
+                "iid": "1fqqo2a",
+                "link": "http://item.meilishuo.com/h5/detail/1fqqo2a?acm=3.ms.2_1_1fqqo2a.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_120226196_0_3-c1_&cparam=MTQ4MjM4MzI4MF8xNTFpeDZvXzNlY2YyMmIyZjBhMzNiMjBiOWIxY2I4MWMxZTM2MzcxXzE3XzJfMTIwMjI2MTk2XzEuMTU3MV8wXzNfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xNTFpeDZvXzNlY2YyMmIyZjBhMzNiMjBiOWIxY2I4MWMxZTM2MzcxXzE3XzJfMTIwMjI2MTk2XzEuMTU3MV8wXzNfMQ==",
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/5c/a3/27a6ffcdc7dfce26fc9f48ff41de_640_837.ch.jpg_e91b543c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "1450",
+                "title": "秋装高腰牛仔裤长裤加绒小脚裤显瘦弹力紧身裤子铅笔裤休闲高腰裤",
+                "cfav": "17424",
+                "price": "￥97.20",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥128.00",
+                "acm": "3.ms.2_1_1gp0q1c.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_152446628_0_4-c1_",
+                "iid": "1gp0q1c",
+                "link": "http://item.meilishuo.com/h5/detail/1gp0q1c?acm=3.ms.2_1_1gp0q1c.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_152446628_0_4-c1_&cparam=MTQ4MjM4MzI4MF8xNTFvYTZjXzFkYzU3OTczZWYzNGVmOTU2OWMzZDRlZTc1Y2FkNWRiXzE3XzNfMTUyNDQ2NjI4XzAuNDA0Ml8wXzRfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xNTFvYTZjXzFkYzU3OTczZWYzNGVmOTU2OWMzZDRlZTc1Y2FkNWRiXzE3XzNfMTUyNDQ2NjI4XzAuNDA0Ml8wXzRfMQ==",
+                "itemMarks": "98 82 62 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161004/eqd78c_02bl5764l0fk9428k42bejckf4d7l_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "805",
+                "title": "欧州站秋冬休闲显瘦毛呢阔腿喇叭裤九分阔腿裤手工双面呢子休闲裤",
+                "cfav": "5986",
+                "price": "￥89.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥165.72",
+                "acm": "3.ms.2_4_1gp8pra.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1gp8pra",
+                "link": "http://item.meilishuo.com/h5/detail/1gp8pra?acm=3.ms.2_4_1gp8pra.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161011/945652358_53flfd1dibd056i9kik5091bakb08_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 305,
+                "title": "冬季时尚系带保暖黄金绒牛仔裤女装加绒加厚哈伦裤韩版宽松长裤子",
+                "cfav": 2417,
+                "price": "￥114.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥113.00",
+                "acm": "3.ms.2_4_1h2v50o.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2v50o",
+                "link": "http://item.meilishuo.com/h5/detail/1h2v50o?acm=3.ms.2_4_1h2v50o.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161119/1039816994_156el37c94i46e4k63ba2d6i6be84_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 208,
+                "title": "韩版秋冬新款高腰裤子松紧腰加厚毛呢直筒裤宽松复古阔腿裤九分裤",
+                "cfav": 728,
+                "price": "￥69.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥88.80",
+                "acm": "3.ms.2_4_1h2z2f4.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2z2f4",
+                "link": "http://item.meilishuo.com/h5/detail/1h2z2f4?acm=3.ms.2_4_1h2z2f4.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161122/goyxdx_1jh5h6l6584g90aek8f483f42ljfh_640x842.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 144,
+                "title": "新款时尚高腰毛呢裤子女哈伦裤九分显瘦阔腿裤直筒裤子休闲裤女",
+                "cfav": 703,
+                "price": "￥86.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥158.00",
+                "acm": "3.ms.2_4_1gpzalg.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1gpzalg",
+                "link": "http://item.meilishuo.com/h5/detail/1gpzalg?acm=3.ms.2_4_1gpzalg.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161014/932392203_54592a7lfl9jecfi1hihk5ai120k6_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 256,
+                "title": "裤子女秋季2016新款黑色喇叭裤高腰牛仔裤女修身毛边九分裤",
+                "cfav": 888,
+                "price": "￥73.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥79.00",
+                "acm": "3.ms.2_4_1glxsh6.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1glxsh6",
+                "link": "http://item.meilishuo.com/h5/detail/1glxsh6?acm=3.ms.2_4_1glxsh6.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160826/869844416_0e4i4j7e2i7346gb1878b21c3lia9_800x1200.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2,
+                "title": "毛菇小象 2016秋装九分休闲裤修身显瘦小脚裤宽松直筒女裤子",
+                "cfav": 49,
+                "price": "￥79.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥359.80",
+                "acm": "3.ms.2_4_1fx67w6.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1fx67w6",
+                "link": "http://item.meilishuo.com/h5/detail/1fx67w6?acm=3.ms.2_4_1fx67w6.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/f6/25/829a082988b95c3388dbcd10e019_640_832.c1.jpg_6c32fd25_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "七格破洞九分裤铅笔裤",
+                "cfav": 37,
+                "price": "￥179.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥299.00",
+                "acm": "3.ms.2_4_1go7gs4.0.8239.05NOQq65raKdo.t_0",
+                "iid": "1go7gs4",
+                "link": "http://item.meilishuo.com/h5/detail/1go7gs4?acm=3.ms.2_4_1go7gs4.0.8239.05NOQq65raKdo.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160926/948473440_1id84l8cdclgdeb54jf78l9bge5c8_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "糖力2016冬装新款欧美 裸色中腰直筒阔腿裤修身宽松百搭裤子",
+                "cfav": 13,
+                "price": "￥284.05",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥125.00",
+                "acm": "3.ms.2_4_1h2l6zc.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2l6zc",
+                "link": "http://item.meilishuo.com/h5/detail/1h2l6zc?acm=3.ms.2_4_1h2l6zc.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161111/1464168233_4djhfefh61h814fe344kgk5f2473a_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 144,
+                "title": "秋冬厚款阔腿裤女九分裤高腰宽松直筒裤七分韩版显瘦休闲纯色裤子",
+                "cfav": 646,
+                "price": "￥87.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥155.00",
+                "acm": "3.ms.2_1_1h32m34.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_152571686_0_5-c1_",
+                "iid": "1h32m34",
+                "link": "http://item.meilishuo.com/h5/detail/1h32m34?acm=3.ms.2_1_1h32m34.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_152571686_0_5-c1_&cparam=MTQ4MjM4MzI4MF8xMmY3N2d5XzExZGMxZWJlMWU3NGU4OGM2Y2M1MjAyNGI0NmU3M2YwXzE3XzRfMTUyNTcxNjg2XzEuNzA3N18wXzVfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xMmY3N2d5XzExZGMxZWJlMWU3NGU4OGM2Y2M1MjAyNGI0NmU3M2YwXzE3XzRfMTUyNTcxNjg2XzEuNzA3N18wXzVfMQ==",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161126/890100345_15749l7dki0adljgcj7i10gi96ca5_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "30",
+                "title": "2色新款加绒加厚破洞牛仔裤修身显瘦小脚裤高腰裤女铅笔裤长裤子",
+                "cfav": "75",
+                "price": "￥108.50",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥150.00",
+                "acm": "3.ms.2_1_1glf2hu.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_73231405_1090508_6-c1_",
+                "iid": "1glf2hu",
+                "link": "http://item.meilishuo.com/h5/detail/1glf2hu?acm=3.ms.2_1_1glf2hu.1.5865-5765-5731-5735.05NOQq65raKdo.t_0-c_1_17_73231405_1090508_6-c1_&cparam=MTQ4MjM4MzI4MF8xMWtfOWRlMDc5ZGQwYzM3NmRhNGQ2N2RhNzk0ZWZkNmQ1MzZfMTdfNV83MzIzMTQwNV8wXzEwOTA1MDhfNl8x",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzI4MF8xMWtfOWRlMDc5ZGQwYzM3NmRhNGQ2N2RhNzk0ZWZkNmQ1MzZfMTdfNV83MzIzMTQwNV8wXzEwOTA1MDhfNl8x",
+                "itemMarks": "98 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160804/935086045_10f8e99f7eil3a23k5205lfej3a1i_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "141",
+                "title": "秋装新款高腰微喇牛仔裤女毛边九分裤弹力修身学院风时尚喇叭裤潮",
+                "cfav": "1762",
+                "price": "￥105.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1h2yp8a.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2yp8a",
+                "link": "http://item.meilishuo.com/h5/detail/1h2yp8a?acm=3.ms.2_4_1h2yp8a.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161123/873000899_14hhdkgl123aldge75lefffidb8ae_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 119,
+                "title": "秋冬新款韩版加绒加厚休闲卫裤女宽松裤子前短后长哈伦裤潮运动裤",
+                "cfav": 1309,
+                "price": "￥68.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥135.00",
+                "acm": "3.ms.2_4_1h2evn6.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h2evn6",
+                "link": "http://item.meilishuo.com/h5/detail/1h2evn6?acm=3.ms.2_4_1h2evn6.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161104/980381222_47jbl1b4c5ae2di3i3hjg0jghb62e_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 336,
+                "title": "女2016韩版冬宽松毛呢裤子垮裤九分裤韩版休闲裤萝卜裤阔腿裤",
+                "cfav": 1601,
+                "price": "￥98.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1fury5e.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1fury5e",
+                "link": "http://item.meilishuo.com/h5/detail/1fury5e?acm=3.ms.2_4_1fury5e.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161021/833331172_351f144b2ailkde059cbjlbjack6j_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 30,
+                "title": "2016秋季新款裤子韩版弹力修身显瘦高腰牛仔九分铅笔小脚裤女",
+                "cfav": 420,
+                "price": "￥66.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥112.00",
+                "acm": "3.ms.2_4_1h3cq1q.0.24465.05NOQq65raKdo.t_0",
+                "iid": "1h3cq1q",
+                "link": "http://item.meilishuo.com/h5/detail/1h3cq1q?acm=3.ms.2_4_1h3cq1q.0.24465.05NOQq65raKdo.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161208/833331172_797ai4d64f7i922ff759aikcf90lj_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 38,
+                "title": "秋冬新款显瘦高腰九分黑色小脚裤加绒牛仔裤女加厚修身铅笔裤子",
+                "cfav": 24,
+                "price": "￥78.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            }
+        ],
+        "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+        "filter": {
+            "title": "wap图墙",
+            "list": [
+                {
+                    "title": "综合",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "销量",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "最新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                }
+            ]
+        }
+    },
+     "data2": {
+        "total": 47925,
+        "title": "wap图墙",
+        "sort": "sell",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "c779689e-0a1f-4071-b6ba-978142092c03",
+            "sort": "sell",
+            "eventId": 70003,
+            "cpc_offset": 0,
+            "page": "1",
+            "cKey": "wap-search",
+            "cpcEventId": 70005,
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+            "section": "0",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥79.00",
+                "acm": "3.ms.2_4_1fq5z5a.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1fq5z5a",
+                "link": "http://item.meilishuo.com/h5/detail/1fq5z5a?acm=3.ms.2_4_1fq5z5a.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/d6/78/5ddf57fe050c061f6c4c2ab1652a_640_842.cf.jpg_0b48aac9_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 753,
+                "title": "【加绒加厚】秋冬男裤哈伦裤男士束脚运动裤修身休闲裤小脚裤卫裤",
+                "cfav": 2388,
+                "price": "￥79.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥139.00",
+                "acm": "3.ms.2_4_1goytmm.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1goytmm",
+                "link": "http://item.meilishuo.com/h5/detail/1goytmm?acm=3.ms.2_4_1goytmm.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160928/1093731495_3a921364149g80f5h17ik5cl2f14l_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 294,
+                "title": "男士牛仔裤长裤秋冬修身男弹力小脚裤青少年男裤韩版黑色裤子男装",
+                "cfav": 847,
+                "price": "￥135.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥119.00",
+                "acm": "3.ms.2_4_1gloria.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1gloria",
+                "link": "http://item.meilishuo.com/h5/detail/1gloria?acm=3.ms.2_4_1gloria.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160814/1093731495_7d4edkj57ge2fl3782b39eid23525_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 268,
+                "title": "【加绒加厚】韩版秋冬牛仔裤男装小脚裤休闲修身显瘦长裤子保暖裤",
+                "cfav": 751,
+                "price": "￥115.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥42.57",
+                "acm": "3.ms.2_4_1k2ajru.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k2ajru",
+                "link": "http://item.meilishuo.com/h5/detail/1k2ajru?acm=3.ms.2_4_1k2ajru.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 128 72 132 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160920/93190536_2l2gha1i6hf3hkeiejl0l470h1eke_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 132931,
+                "title": "【已质检】加绒打底裤外穿女裤弹力小脚裤加厚裤子韩版铅笔裤保暖",
+                "cfav": 4523,
+                "price": "￥29.79",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥127.15",
+                "acm": "3.ms.2_1_1h3fe9k.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_159203569_0_1-c1_",
+                "iid": "1h3fe9k",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fe9k?acm=3.ms.2_1_1h3fe9k.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_159203569_0_1-c1_&cparam=MTQ4MjM4MzM0M18xNDJ0cmZ5XzI1YzBiNDBhMTU2ZjBhY2VhZjc1MTc2ZjQ2ZTQxOWFiXzE3XzBfMTU5MjAzNTY5XzAuMzU3OF8wXzFfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xNDJ0cmZ5XzI1YzBiNDBhMTU2ZjBhY2VhZjc1MTc2ZjQ2ZTQxOWFiXzE3XzBfMTU5MjAzNTY5XzAuMzU3OF8wXzFfMQ==",
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161212/eqd78c_5bc23k42bh9l56ce3a4g8a2fg0h6k_885x1165.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "26",
+                "title": "毛呢裤2016新款加厚宽松条纹背带裤学生休闲连体裤休闲裤",
+                "cfav": "188",
+                "price": "￥87.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥216.00",
+                "acm": "3.ms.2_1_1gsvtdo.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_123306235_0_2-c1_",
+                "iid": "1gsvtdo",
+                "link": "http://item.meilishuo.com/h5/detail/1gsvtdo?acm=3.ms.2_1_1gsvtdo.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_123306235_0_2-c1_&cparam=MTQ4MjM4MzM0M18xM3o1cWFvXzM3MmYxYWMxMDRjMzY2MDliYTE1ZWViZDRhNjZiNDNlXzE3XzFfMTIzMzA2MjM1XzEuNTYwNV8wXzJfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xM3o1cWFvXzM3MmYxYWMxMDRjMzY2MDliYTE1ZWViZDRhNjZiNDNlXzE3XzFfMTIzMzA2MjM1XzEuNTYwNV8wXzJfMQ==",
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161025/874002007_2l4lkf42h1b78dbck1b5fa60jck91_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "419",
+                "title": "秋冬加绒牛仔裤女小脚裤修身显瘦铅笔裤高腰弹力长裤女加长裤子潮",
+                "cfav": "575",
+                "price": "￥99.36",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥28.29",
+                "acm": "3.ms.2_4_18l10ai.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "18l10ai",
+                "link": "http://item.meilishuo.com/h5/detail/18l10ai?acm=3.ms.2_4_18l10ai.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 128 72 132 61 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160326/1jhea0_ifrggyrrhe4dsyjyg4zdambqmeyde_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 92333,
+                "title": "【福利价/质检保证】韩版高腰弹力修身显瘦黑色打底裤外穿小脚裤",
+                "cfav": 7183,
+                "price": "￥19.80",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥42.57",
+                "acm": "3.ms.2_4_1k2fv14.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k2fv14",
+                "link": "http://item.meilishuo.com/h5/detail/1k2fv14?acm=3.ms.2_4_1k2fv14.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 72 132 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161003/93190536_7e10k5gbh4bi6gk25gb824l4g318b_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 50622,
+                "title": "加绒皮裤女士外穿裤子大码女裤韩版保暖PU仿皮小脚裤加厚打底裤",
+                "cfav": 4367,
+                "price": "￥29.79",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥28.43",
+                "acm": "3.ms.2_4_1jv67zm.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1jv67zm",
+                "link": "http://item.meilishuo.com/h5/detail/1jv67zm?acm=3.ms.2_4_1jv67zm.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "9 132",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160815/106310496_719alic885l9174ibj5l20058537l_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 45508,
+                "title": "秋冬加厚外穿打底裤长裤显瘦小脚裤高腰弹力九分裤铅笔裤大码女裤",
+                "cfav": 3878,
+                "price": "￥19.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥42.72",
+                "acm": "3.ms.2_4_18hf1qg.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "18hf1qg",
+                "link": "http://item.meilishuo.com/h5/detail/18hf1qg?acm=3.ms.2_4_18hf1qg.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 132 121 61",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160131/11ieey_ifqtamtemqytmzbwgyzdambqgyyde_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 44228,
+                "title": "秋冬新款弹力显瘦高腰外穿打底裤 加厚加绒保暖小脚裤",
+                "cfav": 3395,
+                "price": "￥29.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥159.80",
+                "acm": "3.ms.2_4_1fpmej6.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1fpmej6",
+                "link": "http://item.meilishuo.com/h5/detail/1fpmej6?acm=3.ms.2_4_1fpmej6.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/42/cc/1e17ea52a97c769779e49306d381_640_832.cf.jpg_fcf197c3_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 77,
+                "title": "七格格弹力百搭外穿打底裤",
+                "cfav": 807,
+                "price": "￥79.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥119.00",
+                "acm": "3.ms.2_4_1gq09xc.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1gq09xc",
+                "link": "http://item.meilishuo.com/h5/detail/1gq09xc?acm=3.ms.2_4_1gq09xc.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161017/1093731495_5g66h9lhldc3ale92874g58c3d1hc_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 65,
+                "title": "秋冬男士加绒加厚休闲裤纯棉运动裤男长裤青少年卫裤男装小脚裤子",
+                "cfav": 118,
+                "price": "￥119.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥149.00",
+                "acm": "3.ms.2_4_1gp7eek.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1gp7eek",
+                "link": "http://item.meilishuo.com/h5/detail/1gp7eek?acm=3.ms.2_4_1gp7eek.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160928/1093731495_57cg6hhaelfge97a05jh59ih8e5hb_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 41,
+                "title": "秋季小脚裤西装裤英伦小西裤男士商务休闲裤韩版修身直筒裤子男潮",
+                "cfav": 127,
+                "price": "￥149.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥57.00",
+                "acm": "3.ms.2_4_18lkgso.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "18lkgso",
+                "link": "http://item.meilishuo.com/h5/detail/18lkgso?acm=3.ms.2_4_18lkgso.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 132 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160929/41189573_25k628l9h1dgjkhaie8ici3l96379_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 41678,
+                "title": "【热卖好货|必买打底】不抽丝加绒加厚外穿高腰弹力显瘦打底裤",
+                "cfav": 3787,
+                "price": "￥39.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥360.00",
+                "acm": "3.ms.2_1_1fqqo2a.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_120226196_0_3-c1_",
+                "iid": "1fqqo2a",
+                "link": "http://item.meilishuo.com/h5/detail/1fqqo2a?acm=3.ms.2_1_1fqqo2a.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_120226196_0_3-c1_&cparam=MTQ4MjM4MzM0M18xNTFpeDZvX2JkODgzNjQ4YzU4ZTc3MjE2NzU5ZjYzYjY2YmM5YzdmXzE3XzJfMTIwMjI2MTk2XzEuMTU3MV8wXzNfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xNTFpeDZvX2JkODgzNjQ4YzU4ZTc3MjE2NzU5ZjYzYjY2YmM5YzdmXzE3XzJfMTIwMjI2MTk2XzEuMTU3MV8wXzNfMQ==",
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/5c/a3/27a6ffcdc7dfce26fc9f48ff41de_640_837.ch.jpg_e91b543c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "1450",
+                "title": "秋装高腰牛仔裤长裤加绒小脚裤显瘦弹力紧身裤子铅笔裤休闲高腰裤",
+                "cfav": "17424",
+                "price": "￥97.20",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥128.00",
+                "acm": "3.ms.2_1_1gp0q1c.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_152446628_0_4-c1_",
+                "iid": "1gp0q1c",
+                "link": "http://item.meilishuo.com/h5/detail/1gp0q1c?acm=3.ms.2_1_1gp0q1c.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_152446628_0_4-c1_&cparam=MTQ4MjM4MzM0M18xNTFvYTZjX2NiYTQ1NjY4ZTc2NjFkNzQxYzg5MjdlMGVhYmYxZDk5XzE3XzNfMTUyNDQ2NjI4XzAuNDA0Ml8wXzRfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xNTFvYTZjX2NiYTQ1NjY4ZTc2NjFkNzQxYzg5MjdlMGVhYmYxZDk5XzE3XzNfMTUyNDQ2NjI4XzAuNDA0Ml8wXzRfMQ==",
+                "itemMarks": "98 82 62 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161004/eqd78c_02bl5764l0fk9428k42bejckf4d7l_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "805",
+                "title": "欧州站秋冬休闲显瘦毛呢阔腿喇叭裤九分阔腿裤手工双面呢子休闲裤",
+                "cfav": "5986",
+                "price": "￥89.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥28.43",
+                "acm": "3.ms.2_4_1k1db30.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k1db30",
+                "link": "http://item.meilishuo.com/h5/detail/1k1db30?acm=3.ms.2_4_1k1db30.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 61",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160820/28842052_87h8eg5c95kje6i4ck71eehfgjcgl_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 31829,
+                "title": "高腰外穿加绒加厚打底裤秋冬款显瘦小脚裤长裤大码黑色铅笔裤女裤",
+                "cfav": 2384,
+                "price": "￥19.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥71.00",
+                "acm": "3.ms.2_4_17udoko.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "17udoko",
+                "link": "http://item.meilishuo.com/h5/detail/17udoko?acm=3.ms.2_4_17udoko.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 61 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/151114/1hvanr_ifrgkzlgg4zwmylegqzdambqmeyde_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 24861,
+                "title": "仅此一天 牛仔裤女韩版秋装修身显瘦大码百搭长裤子女式小脚裤",
+                "cfav": 3694,
+                "price": "￥49.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥57.00",
+                "acm": "3.ms.2_4_18p77qe.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "18p77qe",
+                "link": "http://item.meilishuo.com/h5/detail/18p77qe?acm=3.ms.2_4_18p77qe.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 72 61",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160411/79770597_ie4wimtdgm2teoleg4zdambqgqyde_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 24840,
+                "title": "韩版秋季新品高腰九分牛仔裤修身显瘦小脚裤女黑色弹力铅笔裤学生",
+                "cfav": 2535,
+                "price": "￥42.75",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥70.00",
+                "acm": "3.ms.2_4_1k0vab4.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k0vab4",
+                "link": "http://item.meilishuo.com/h5/detail/1k0vab4?acm=3.ms.2_4_1k0vab4.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160902/85201247_0fgejc867i896109cl65f7kb0jlfg_1000x1500.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 23531,
+                "title": "【不起丝不起球】秋冬韩版加绒加厚外穿弹力修身显瘦女小脚打底裤",
+                "cfav": 1558,
+                "price": "￥49.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥142.00",
+                "acm": "3.ms.2_4_1grh8so.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1grh8so",
+                "link": "http://item.meilishuo.com/h5/detail/1grh8so?acm=3.ms.2_4_1grh8so.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161109/862720156_6k3731l57dd802bbif9h66hdk2256_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 36,
+                "title": "ZZ大小姐新品简约百搭长裤修身显瘦牛仔裤纯色裤子",
+                "cfav": 79,
+                "price": "￥142.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥139.00",
+                "acm": "3.ms.2_4_1gl8pko.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1gl8pko",
+                "link": "http://item.meilishuo.com/h5/detail/1gl8pko?acm=3.ms.2_4_1gl8pko.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160727/1093731495_ifrdazjqgq3damrqmezdambqmeyde_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 26,
+                "title": "秋季修身男士牛仔裤！男小脚男裤休闲长裤子秋季小脚裤潮男装",
+                "cfav": 65,
+                "price": "￥139.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥58.00",
+                "acm": "3.ms.2_4_1fvohh6.0.8243.94mOaq65rrhpp.t_0",
+                "iid": "1fvohh6",
+                "link": "http://item.meilishuo.com/h5/detail/1fvohh6?acm=3.ms.2_4_1fvohh6.0.8243.94mOaq65rrhpp.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/77/66/20ac55daf647868440a3f57c9cae_640_832.c1.jpg_d149b27b_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 18,
+                "title": "优奇婴儿纯棉套装",
+                "cfav": 81,
+                "price": "￥58.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥99.00",
+                "acm": "3.ms.2_4_1k142yu.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k142yu",
+                "link": "http://item.meilishuo.com/h5/detail/1k142yu?acm=3.ms.2_4_1k142yu.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 128 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160812/140035687_1b25ajbi8g6dibdlic88l734agaha_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 23252,
+                "title": "2016新款日系男士韩版修身加绒加厚小脚牛仔裤",
+                "cfav": 898,
+                "price": "￥69.30",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥155.00",
+                "acm": "3.ms.2_1_1h32m34.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_152571686_0_5-c1_",
+                "iid": "1h32m34",
+                "link": "http://item.meilishuo.com/h5/detail/1h32m34?acm=3.ms.2_1_1h32m34.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_152571686_0_5-c1_&cparam=MTQ4MjM4MzM0M18xMmY3N2d5XzU4NDA4NTQxNzg4MDE5MGZkZmU0NzJkZTU3MTcxZjUyXzE3XzRfMTUyNTcxNjg2XzEuNzA3N18wXzVfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xMmY3N2d5XzU4NDA4NTQxNzg4MDE5MGZkZmU0NzJkZTU3MTcxZjUyXzE3XzRfMTUyNTcxNjg2XzEuNzA3N18wXzVfMQ==",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161126/890100345_15749l7dki0adljgcj7i10gi96ca5_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "30",
+                "title": "2色新款加绒加厚破洞牛仔裤修身显瘦小脚裤高腰裤女铅笔裤长裤子",
+                "cfav": "75",
+                "price": "￥108.50",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥150.00",
+                "acm": "3.ms.2_1_1glf2hu.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_73231405_1090508_6-c1_",
+                "iid": "1glf2hu",
+                "link": "http://item.meilishuo.com/h5/detail/1glf2hu?acm=3.ms.2_1_1glf2hu.1.5865-5765-5731-5735.94mOaq65rrhpp.t_0-c_1_17_73231405_1090508_6-c1_&cparam=MTQ4MjM4MzM0M18xMWtfMjJhNjBkMzI3NTUzMDA4ZDJhYTNiYzA4ZTYxMGQ5NDVfMTdfNV83MzIzMTQwNV8wXzEwOTA1MDhfNl8x",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM4MzM0M18xMWtfMjJhNjBkMzI3NTUzMDA4ZDJhYTNiYzA4ZTYxMGQ5NDVfMTdfNV83MzIzMTQwNV8wXzEwOTA1MDhfNl8x",
+                "itemMarks": "98 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160804/935086045_10f8e99f7eil3a23k5205lfej3a1i_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "141",
+                "title": "秋装新款高腰微喇牛仔裤女毛边九分裤弹力修身学院风时尚喇叭裤潮",
+                "cfav": "1762",
+                "price": "￥105.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥71.00",
+                "acm": "3.ms.2_4_18l5s0k.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "18l5s0k",
+                "link": "http://item.meilishuo.com/h5/detail/18l5s0k?acm=3.ms.2_4_18l5s0k.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160120/10gssk_ifrtkzjsmjrtcnrtgyzdambqhayde_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 21803,
+                "title": "【皇后】韩版显瘦修身弹力九分牛仔裤",
+                "cfav": 1429,
+                "price": "￥71.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥57.00",
+                "acm": "3.ms.2_4_1k0zgt4.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k0zgt4",
+                "link": "http://item.meilishuo.com/h5/detail/1k0zgt4?acm=3.ms.2_4_1k0zgt4.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 77 72 61 121",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/160809/67661648_5jk7begj19046i1g98i5ldh86bi6d_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 19619,
+                "title": "2016韩版新品显瘦外穿修身弹力九分牛仔裤",
+                "cfav": 552,
+                "price": "￥39.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥61.00",
+                "acm": "3.ms.2_4_1k1spxa.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k1spxa",
+                "link": "http://item.meilishuo.com/h5/detail/1k1spxa?acm=3.ms.2_4_1k1spxa.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82 72 62 132",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/160918/93178934_7ibfddcaei89b3eag97ggb1ab605j_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 19065,
+                "title": "加厚不抽丝不扭腿】加绒打底裤高腰外穿弹力小脚裤韩版修身长裤女",
+                "cfav": 851,
+                "price": "￥42.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            },
+            {
+                "orgPrice": "￥70.00",
+                "acm": "3.ms.2_4_1k488fa.0.5804.94mOaq65rrhpp.t_0",
+                "iid": "1k488fa",
+                "link": "http://item.meilishuo.com/h5/detail/1k488fa?acm=3.ms.2_4_1k488fa.0.5804.94mOaq65rrhpp.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161026/166059844_8c000ih02k618hi449c203iii603b_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 17685,
+                "title": "阔腿裤女冬毛呢裤子秋冬九分裤韩版女裤休闲裤黑宽松萝卜裤",
+                "cfav": 1759,
+                "price": "￥49.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [],
+                "leftbottom_taglist": []
+            }
+        ],
+        "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+        "filter": {
+            "title": "wap图墙",
+            "list": [
+                {
+                    "title": "综合",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "销量",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "最新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                }
+            ]
+        }
+    }
+    
+}
