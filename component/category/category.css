@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 #category{width:100%;background:#fff;}
+=======
+#category{width:100%;height:100%;background:#fff;}
+>>>>>>> jianglin
 /*top 搜索*/
 #category .categoryTopimg img{width:100%;position:fixed;top:0;}
 .categorySearch{width: 100%;height: 2.9rem;background: #fff;margin-top: 16%}
@@ -11,6 +15,7 @@
 .categorySearch .categorySearchDian{float: left;width:4rem ;height:2.2rem;background: url("../../img/diandiandian.png")center no-repeat;background-size: 1.44rem 1.3rem;margin-top: 1.1%}
 /*全部分类*/
 .categoryAllClassTopImg img{width:100%;}
+<<<<<<< HEAD
 
 #categoryCount{width:100%;padding-top: 2%;}
 .categoryCount{width:100%;margin: auto;padding-left:2%;border-top:10px solid #f5edf0;}
@@ -28,4 +33,22 @@
 .categoryCount-2 ul li img{width:100%;float: left;background-size: 100%;}
 .categoryCount-2 ul li{width:30%;}
 .categoryCount-2 ul li:first-of-type{width:40%;}
+=======
+>>>>>>> jianglin
 
+#categoryCount{width:100%;padding-top: 2%;}
+.categoryCount{width:100%;margin: auto;padding-left:2%;border-top:10px solid #f5edf0;}
+.categoryCount ul li img{width: 33%;float: left;padding-right: 2%;margin-bottom: 2%;}
+/*分类热销*/
+#categorySale{border-top:10px solid #f5edf0;}
+.categorySaleImg img{width:100%;}
+.categorySaleText{width:100%;font-size: .56rem;padding:1rem;border-bottom: 1px solid #f8f8f8;border-top:1px solid #f8f8f8; margin-top: 2.5%}
+.categorySaleText span{text-align: left;}
+.categorySaleText a{float:right;color:#FF3366;}
+
+#categoryCount-2{width:100%;padding-top: 2%;}
+.categoryCount-2{width:100%;margin: auto;}
+.categoryCount-2 ul li{float: left;}
+.categoryCount-2 ul li img{width:100%;float: left;background-size: 100%;}
+.categoryCount-2 ul li{width:30%;}
+.categoryCount-2 ul li:first-of-type{width:40%;}
