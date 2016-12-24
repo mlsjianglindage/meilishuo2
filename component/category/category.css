@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #category{width:100%;height:100%;background:#fff;}
 /*top 搜索*/
 #category .categoryTopimg img{width:100%;position:fixed;top:0;}
@@ -28,11 +28,10 @@
 .categoryCount-2 ul li img{width:100%;float: left;background-size: 100%;}
 .categoryCount-2 ul li{width:30%;}
 .categoryCount-2 ul li:first-of-type{width:40%;}
-=======
+
 #category{width:100%;height:100%;background:#f5edf0;}
 #category .categoryTopimg img{width:100%;position:fixed;top:0;}
 .categorySearch{width: 100%;height: 2.9rem;background: #fff;margin-top: 16%}
 .categorySearch .categoryDazuiba{width:1.8rem;height: 100%;background: url("../../img/dazuiba.png") center no-repeat;background-size:100%;margin: 0 1rem;float: left; }
 .categorySearch input{float: left;width:5.3rem;height:.56rem;}
 
->>>>>>> jianglin
