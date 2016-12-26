@@ -1,0 +1,966 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data": {
+        "total": 2938,
+        "title": "wap图墙",
+        "sort": "pop",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "ptpWallDoc": "_wall_docs",
+            "_mgjuuid": "6abe8d3e-c143-4e6a-8595-aca4f177ab57",
+            "sort": "pop",
+            "eventId": 70003,
+            "cpc_offset": 0,
+            "page": "1",
+            "cKey": "wap-search",
+            "cpcEventId": 70005,
+            "ptpWallCpc": "_wall_cpc",
+            "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+            "section": "0",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥436.00",
+                "acm": "3.ms.2_4_1fv006e.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fv006e",
+                "link": "http://item.meilishuo.com/h5/detail/1fv006e?acm=3.ms.2_4_1fv006e.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 62 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/4d/60/9e27aa6796833da2b8988ec43095_640_832.cj.jpg_725ba325_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 4,
+                "title": "aza2016新款单肩信封包 韩版阿札女链条包简约时尚斜挎包",
+                "cfav": 1211,
+                "price": "￥218.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥41.42",
+                "acm": "3.ms.2_4_1fr90ja.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fr90ja",
+                "link": "http://item.meilishuo.com/h5/detail/1fr90ja?acm=3.ms.2_4_1fr90ja.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 114",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/e4/2b/70dd5c66e22f07f9a46a9da5111b_640_832.cg.jpg_647f319e_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "丹尼熊新品粗条纹手拎包",
+                "cfav": 17,
+                "price": "￥28.99",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥297.50",
+                "acm": "3.ms.2_4_1fulv8u.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fulv8u",
+                "link": "http://item.meilishuo.com/h5/detail/1fulv8u?acm=3.ms.2_4_1fulv8u.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/3c/01/62130bafefa9773bd1360ca6bb62_640_832.cj.jpg_48fd8baa_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "香港Artmi日韩休闲单肩包时尚英文斜挎包链条包潮信封包小包",
+                "cfav": 99,
+                "price": "￥119.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥442.00",
+                "acm": "3.ms.2_4_1gk52ys.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1gk52ys",
+                "link": "http://item.meilishuo.com/h5/detail/1gk52ys?acm=3.ms.2_4_1gk52ys.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161110/944496040_547a341l63hl19g3ke5f973j4e9l9_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 254,
+                "title": "全智贤同款镶钻气质奢华镶钻链条单肩斜跨包+【送手拿信封包】",
+                "cfav": 2053,
+                "price": "￥110.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥110.00",
+                "acm": "3.ms.2_1_1gkqvzw.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_75393222_1379907_1-c1_",
+                "iid": "1gkqvzw",
+                "link": "http://item.meilishuo.com/h5/detail/1gkqvzw?acm=3.ms.2_1_1gkqvzw.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_75393222_1379907_1-c1_&cparam=MTQ4MjM3NTExNF8xM2h2djJjXzJmMDA1MjhmNTMxMjAxZTRjY2M5YzUzYjc0Y2IyMmI1XzE3XzBfNzUzOTMyMjJfMS4yNTNfMTM3OTkwN18xXzE=",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xM2h2djJjXzJmMDA1MjhmNTMxMjAxZTRjY2M5YzUzYjc0Y2IyMmI1XzE3XzBfNzUzOTMyMjJfMS4yNTNfMTM3OTkwN18xXzE=",
+                "itemMarks": "990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p1/160630/945236002_ie4wcmtbhe3tonrxhezdambqgqyde_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "189",
+                "title": "新款手提包时尚链条百搭包包明星同款女包斜挎小方包",
+                "cfav": "2355",
+                "price": "￥86.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥155.00",
+                "acm": "3.ms.2_1_1goz5da.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_105719270_0_2-c1_",
+                "iid": "1goz5da",
+                "link": "http://item.meilishuo.com/h5/detail/1goz5da?acm=3.ms.2_1_1goz5da.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_105719270_0_2-c1_&cparam=MTQ4MjM3NTExNF8xMnZibHl5XzEwMGVlNzFkMzM4OTEwYjAxZjZhNjdlMzMwY2M0MzdmXzE3XzFfMTA1NzE5MjcwXzAuNDA4OF8wXzJfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xMnZibHl5XzEwMGVlNzFkMzM4OTEwYjAxZjZhNjdlMzMwY2M0MzdmXzE3XzFfMTA1NzE5MjcwXzAuNDA4OF8wXzJfMQ==",
+                "itemMarks": null,
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161008/nzu4ql_0ldlk9jk6i31fd68897cc768846le_640x841.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "2",
+                "title": "新款女包潮欧美信封包银色手拿包手抓包时尚鳄鱼纹单肩包",
+                "cfav": "30",
+                "price": "￥108.50",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥159.00",
+                "acm": "3.ms.2_4_1gpbawy.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1gpbawy",
+                "link": "http://item.meilishuo.com/h5/detail/1gpbawy?acm=3.ms.2_4_1gpbawy.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161011/944496040_10cdi31dke3e6fic627d4c5jbj5k9_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 72,
+                "title": "【送手拿信封包】马毛小香风毛球编织锁扣单肩斜跨链条包",
+                "cfav": 856,
+                "price": "￥111.30",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥290.00",
+                "acm": "3.ms.2_4_1fs9rzu.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1fs9rzu",
+                "link": "http://item.meilishuo.com/h5/detail/1fs9rzu?acm=3.ms.2_4_1fs9rzu.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/9f/07/e37ed33f99e38e0096656d0f8f62_640_832.cg.jpg_ee0b63cd_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 24,
+                "title": "韩版简约磨砂皮手拿信封包",
+                "cfav": 2931,
+                "price": "￥87.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥158.00",
+                "acm": "3.ms.2_4_1gkvo3y.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1gkvo3y",
+                "link": "http://item.meilishuo.com/h5/detail/1gkvo3y?acm=3.ms.2_4_1gkvo3y.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p1/160710/l4o2xt_ifrtsnryguygmylbhezdambqhayde_640x842.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 21,
+                "title": "新款蛇纹铆钉信封包欧美时尚链条单肩女包潮个性金属色手拿包",
+                "cfav": 1114,
+                "price": "￥105.86",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥117.00",
+                "acm": "3.ms.2_4_1h3fnaw.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h3fnaw",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fnaw?acm=3.ms.2_4_1h3fnaw.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161213/881130190_272680kf7c64c86329959371kc260_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "女士包包秋冬毛球链条女包毛毛单肩包斜挎包信封包手拿包",
+                "cfav": 3,
+                "price": "￥79.56",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥465.00",
+                "acm": "3.ms.2_4_1fmhvqa.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fmhvqa",
+                "link": "http://item.meilishuo.com/h5/detail/1fmhvqa?acm=3.ms.2_4_1fmhvqa.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/c5/88/78b5b42b5a1b698a9df3d3af60c4_640_960.cf.jpg_db0f491c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "潮流手抓包个性PU手拿包",
+                "cfav": 108,
+                "price": "￥158.10",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥141.43",
+                "acm": "3.ms.2_4_1fwsv3u.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fwsv3u",
+                "link": "http://item.meilishuo.com/h5/detail/1fwsv3u?acm=3.ms.2_4_1fwsv3u.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 114 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/08/70/39f82d1da188590d57bf4ef6a2f1_640_832.c1.jpg_394446b7_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "丹尼熊多功能小斜挎包手拿信封包拼色帆布小包",
+                "cfav": 20,
+                "price": "￥99.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥529.00",
+                "acm": "3.ms.2_4_1gmnrn0.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1gmnrn0",
+                "link": "http://item.meilishuo.com/h5/detail/1gmnrn0?acm=3.ms.2_4_1gmnrn0.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160918/948473440_0dce60f6jj07j53a76506ji5f1b5j_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "2016冬季新款女包 欧美包百搭灰色双肩包",
+                "cfav": 20,
+                "price": "￥502.55",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥128.00",
+                "acm": "3.ms.2_4_1gtlkpo.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1gtlkpo",
+                "link": "http://item.meilishuo.com/h5/detail/1gtlkpo?acm=3.ms.2_4_1gtlkpo.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161022/1182398614_145482k2353bij43d53caadg7je30_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 17,
+                "title": "包包2016秋冬新款圆环信封包手拿包欧美时尚女包简约单肩斜挎",
+                "cfav": 267,
+                "price": "￥89.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥89.00",
+                "acm": "3.ms.2_1_1gkqrfw.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_86771041_0_3-c1_",
+                "iid": "1gkqrfw",
+                "link": "http://item.meilishuo.com/h5/detail/1gkqrfw?acm=3.ms.2_1_1gkqrfw.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_86771041_0_3-c1_&cparam=MTQ4MjM3NTExNF8xM29hNmI2XzdlNWI5ZTBjZjE3MzUyMGVkZmQ3YzQ0OTM0OGVjODZmXzE3XzJfODY3NzEwNDFfMC40MzE3XzBfM18x",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xM29hNmI2XzdlNWI5ZTBjZjE3MzUyMGVkZmQ3YzQ0OTM0OGVjODZmXzE3XzJfODY3NzEwNDFfMC40MzE3XzBfM18x",
+                "itemMarks": "990 114 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160812/1283961729_7b78h5he2a6gl57f38l9adbk9ea3b_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "12",
+                "title": "2016阿希哥宋茜网红刘雯明星同款米兰走秀缎带酒神潮女包",
+                "cfav": "156",
+                "price": "￥88.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥79.00",
+                "acm": "3.ms.2_1_1govnrq.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_111091997_0_4-c1_",
+                "iid": "1govnrq",
+                "link": "http://item.meilishuo.com/h5/detail/1govnrq?acm=3.ms.2_1_1govnrq.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_111091997_0_4-c1_&cparam=MTQ4MjM3NTExNF8xM2l0anUyXzA4MjY5OGY2NjM4Mjk1ZDFlM2Q2MjE2NmUzNGExMDU3XzE3XzNfMTExMDkxOTk3XzAuNTEzNl8wXzRfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xM2l0anUyXzA4MjY5OGY2NjM4Mjk1ZDFlM2Q2MjE2NmUzNGExMDU3XzE3XzNfMTExMDkxOTk3XzAuNTEzNl8wXzRfMQ==",
+                "itemMarks": "107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161006/1466926134_3hjajh3ggd1f3i143g45c0kl9cd10_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "78",
+                "title": "欧美大牌潮流女士手拿包时尚宴会手抓包女信封包",
+                "cfav": "343",
+                "price": "￥59.25",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥130.00",
+                "acm": "3.ms.2_4_1h2hfkg.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h2hfkg",
+                "link": "http://item.meilishuo.com/h5/detail/1h2hfkg?acm=3.ms.2_4_1h2hfkg.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161104/fpf4qg_1c1lj1a227fgde3ellh5g341b9hh6_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2,
+                "title": "兰心家~手拿包女士手包休闲信封包潮女单肩斜挎包简约百搭手抓包",
+                "cfav": 20,
+                "price": "￥89.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥165.00",
+                "acm": "3.ms.2_4_1h3azbc.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h3azbc",
+                "link": "http://item.meilishuo.com/h5/detail/1h3azbc?acm=3.ms.2_4_1h3azbc.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161206/944496040_2fe344kdlgg6edc19cf734c1lldh3_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 4,
+                "title": "【送信封包】冬季新款徽章小香风包包pu包菱格链条包单肩斜跨包",
+                "cfav": 21,
+                "price": "￥115.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥97.00",
+                "acm": "3.ms.2_4_1h3fvi0.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h3fvi0",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fvi0?acm=3.ms.2_4_1h3fvi0.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161213/881130190_8a3a981hldd15a521j4gjgi2h1677_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "女士包包秋冬新款时尚贴牌徽章手拿包日韩版单肩斜挎包信封包女包",
+                "cfav": 1,
+                "price": "￥65.96",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥125.00",
+                "acm": "3.ms.2_4_1h3fl90.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h3fl90",
+                "link": "http://item.meilishuo.com/h5/detail/1h3fl90?acm=3.ms.2_4_1h3fl90.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 82 62",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161213/1185100933_3ic95hdj58g3e1e244fjiakkl6ac8_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "磨砂圆环信封包女斜跨包韩版简约复古小方包欧美百搭明星款单肩包",
+                "cfav": 2,
+                "price": "￥85.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥269.00",
+                "acm": "3.ms.2_4_1gpqrhu.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1gpqrhu",
+                "link": "http://item.meilishuo.com/h5/detail/1gpqrhu?acm=3.ms.2_4_1gpqrhu.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161015/oe92py_1ai3c86h8761bdjh6fih328b1f71a_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 4,
+                "title": "潮流超闪亮片学院双肩包",
+                "cfav": 55,
+                "price": "￥188.30",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥141.43",
+                "acm": "3.ms.2_4_1fwsuu2.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fwsuu2",
+                "link": "http://item.meilishuo.com/h5/detail/1fwsuu2?acm=3.ms.2_4_1fwsuu2.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 114",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/d5/17/f5078833c87c28714fee56141df6_640_832.c1.jpg_2c9f7b4f_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "丹尼熊多功能个性黑白拼色小斜挎信封包手拿包帆布小包",
+                "cfav": 10,
+                "price": "￥99.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s18.mogucdn.com/b7/avatar/160520/1y0mpt_ie4tqodbgrrdcnlbhazdambqgqyde_50x54.jpg",
+                        "w": 50,
+                        "h": 54
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥299.50",
+                "acm": "3.ms.2_4_1fnnlim.0.8239.gcxrZq64SUzYq.t_0",
+                "iid": "1fnnlim",
+                "link": "http://item.meilishuo.com/h5/detail/1fnnlim?acm=3.ms.2_4_1fnnlim.0.8239.gcxrZq64SUzYq.t_0",
+                "itemType": 1,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/80/81/51caa48cb8204266c84eb257f537_640_832.ch.jpg_e1cb67ab_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "鳄鱼纹小包夏新款潮女信封包时尚手拿女包韩版单肩斜跨女包包",
+                "cfav": 87,
+                "price": "￥59.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥240.00",
+                "acm": "3.ms.2_4_1h3chzi.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h3chzi",
+                "link": "http://item.meilishuo.com/h5/detail/1h3chzi?acm=3.ms.2_4_1h3chzi.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161207/1259015689_6fjik2ee03i184229f5cf7891dk4h_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 0,
+                "title": "【米易奇】秋冬新款撞色手拿包时尚百搭信封包链条包单肩包斜挎包",
+                "cfav": 1,
+                "price": "￥69.90",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥158.00",
+                "acm": "3.ms.2_1_1fvndwa.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_106505145_0_5-c1_",
+                "iid": "1fvndwa",
+                "link": "http://item.meilishuo.com/h5/detail/1fvndwa?acm=3.ms.2_1_1fvndwa.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_106505145_0_5-c1_&cparam=MTQ4MjM3NTExNF8xMnZidnJtXzYzZTMxZTM5NGM4NTYxNzI2ZjYzMzc3YjEyYWU3YTIyXzE3XzRfMTA2NTA1MTQ1XzAuODkyMV8wXzVfMQ==",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xMnZidnJtXzYzZTMxZTM5NGM4NTYxNzI2ZjYzMzc3YjEyYWU3YTIyXzE3XzRfMTA2NTA1MTQ1XzAuODkyMV8wXzVfMQ==",
+                "itemMarks": "98 82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/82/ab/be795b79ccccb6de8ec274b88904_640_842.cj.jpg_5250b736_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "111",
+                "title": "韩版复古夹子三层单肩包",
+                "cfav": "3975",
+                "price": "￥79.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥49.00",
+                "acm": "3.ms.2_1_1gl9uve.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_86777389_0_6-c1_",
+                "iid": "1gl9uve",
+                "link": "http://item.meilishuo.com/h5/detail/1gl9uve?acm=3.ms.2_1_1gl9uve.1.5865-5765-5731-5735.gcxrZq64SUzYq.t_0-c_1_17_86777389_0_6-c1_&cparam=MTQ4MjM3NTExNF8xMWtfMWY4MDQ3ZmE2NmIwMWQ5MGIxZWYxYTQyNTFmMzRiM2VfMTdfNV84Njc3NzM4OV8wXzBfNl8x",
+                "itemType": 3,
+                "popularStar": null,
+                "cparam": "MTQ4MjM3NTExNF8xMWtfMWY4MDQ3ZmE2NmIwMWQ5MGIxZWYxYTQyNTFmMzRiM2VfMTdfNV84Njc3NzM4OV8wXzBfNl8x",
+                "itemMarks": "82 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p1/160728/945236002_ifrdgyjxhftgenzqmezdambqmeyde_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "150",
+                "title": "欢乐颂安迪刘涛同款包手拿包流苏信封包手抓包单肩斜挎链条包女包",
+                "cfav": "461",
+                "price": "￥39.20",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥130.00",
+                "acm": "3.ms.2_4_1h2houc.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h2houc",
+                "link": "http://item.meilishuo.com/h5/detail/1h2houc?acm=3.ms.2_4_1h2houc.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161104/fpf4qg_3hihlfba5g9j1k90129hd4k42ke7l_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1,
+                "title": "兰心家~女包2016新款手拿包女士信封包潮女手抓包格子手包百",
+                "cfav": 6,
+                "price": "￥89.70",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥97.50",
+                "acm": "3.ms.2_4_1glxsma.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1glxsma",
+                "link": "http://item.meilishuo.com/h5/detail/1glxsma?acm=3.ms.2_4_1glxsma.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160826/843245250_4g9b61g2g3g1551bbl14d679ljk3f_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 12,
+                "title": "2016秋季新款欧美时尚鳄鱼纹手拿包链条信封包单肩包斜挎小包",
+                "cfav": 37,
+                "price": "￥77.00",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥87.00",
+                "acm": "3.ms.2_4_1h2iml2.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1h2iml2",
+                "link": "http://item.meilishuo.com/h5/detail/1h2iml2?acm=3.ms.2_4_1h2iml2.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s11.mogucdn.com/p2/161125/881130190_08c02ihcc9l154e4ejffgg7h9jcae_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2,
+                "title": "女包手拿包日韩版字母印花信封包手拎包单肩斜挎包手抓包",
+                "cfav": 8,
+                "price": "￥59.16",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥128.00",
+                "acm": "3.ms.2_4_1gmm0pg.0.24468.gcxrZq64SUzYq.t_0",
+                "iid": "1gmm0pg",
+                "link": "http://item.meilishuo.com/h5/detail/1gmm0pg?acm=3.ms.2_4_1gmm0pg.0.24468.gcxrZq64SUzYq.t_0",
+                "itemType": 4,
+                "popularStar": null,
+                "cparam": null,
+                "itemMarks": "98 990 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/160917/1309398955_6141kl2l832ei24di6db8defjab84_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 138,
+                "title": "斜挎包小包新款链条包小香风信封包女韩版包包磨砂百搭女包小清新",
+                "cfav": 1649,
+                "price": "￥89.60",
+                "ptpC": "_mb_mls_0_wap-search_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/p2/161216/upload_1lki2db6ce3f30g3kgb5bj09i6j2h_70x80.png",
+                        "w": 70,
+                        "h": 80
+                    }
+                ],
+                "leftbottom_taglist": [
+                    
+                ]
+            }
+        ],
+        "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+        "filter": {
+            "title": "wap图墙",
+            "list": [
+                {
+                    "title": "综合",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "销量",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                },
+                {
+                    "title": "最新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "null",
+                    "type": "sort"
+                }
+            ]
+        }
+    }
+}

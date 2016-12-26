@@ -1,3 +1,189 @@
-h1{
-	color: deeppink;
+#mine{
+	color: #666;
+	background: #f4f4f4;
+}
+/*mine header*/
+.mineHeader{
+	height: 3.92rem;
+	width: 100%;
+	background: #fff;
+	overflow: hidden;
+	text-align: center;
+	color: #333;
+	line-height:3.92rem;
+	border-bottom: 1px solid rgba(51,51,51,0.15);
+}
+.mineGoBack{
+	z-index: 5;
+	float: left;
+	text-align: left;
+	vertical-align: middle;
+	width: 1.8rem;
+	padding-left: 1.3rem;
+}
+.mineGoBack img{
+	width: .8rem;
+	display: inline-block;
+	margin-top: 1.28rem;
+}
+.mineback{
+	z-index: 5;
+	font-size: 1.55rem;
+	float: right;
+	padding-right: 1.3rem;
+	height: 3.92rem;
+}
+.mineback>a{
+	color: #666;
+}
+.mineTitle{
+	z-index: 1;
+	margin-left: 3.6rem;
+}
+.mineTitle a{
+	font-size: 1.55rem;
+	color: #666;
+}
+/*mine main*/
+.mine_main{
+
+}
+.mine_userInfo{
+	width: 100%;
+	padding-top: 1.3rem;
+	font-size: 1.3rem;
+	color: #fff;
+	text-align: center;
+	line-height: 1.36rem;
+	background: url(img/mineBg.jpg) no-repeat center;
+	background-size: cover;
+}
+.mine_user_img{
+
+}
+.mine_user_img_inner{
+	width: 5rem;
+	height: 5rem;
+	overflow: hidden;
+	border: 5px solid rgba(233,54,54,0.3);
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mine_user_name{
+	margin-top: 1.1rem;
+}
+.mine_userInfo img{
+	width:100%;
+	height:100%;
+	border-radius: 50%;
+}
+.mine_user_list{
+	margin-top: 1.2rem;
+	border-top: 1px solid rgba(255,255,255,0.5);
+	height: 4.5rem;
+}
+.mine_user_list a{
+	float: left;
+	width: 25%;
+	color: #FFF;
+	font-size: .24rem;
+	padding-left: 10%;
+	padding: .9rem 0;
+}
+.mine_user_list a:nth-child(2n){
+	border-right: 1px solid rgba(255,255,255,0.5);
+}
+.mine_user_list span{
+	display: block;
+	vertical-align: middle;
+	margin-left: 42%;
+	line-height: 1.34rem;
+}
+.mine_user_list .mine_user_list_num{
+	text-align: center;
+	margin-left: 0;
+	font-size: 1.3rem;
+}
+.mine_user_list .couponIcon{
+	width: 1.26rem;
+	height: 1.33rem;
+	background: url(img/minejlt.png) no-repeat 0% 32.5%;
+	background-size: 10.5rem;
+}
+.mine_user_list .addressIcon{
+	width: 1.26rem;
+	height: 1.33rem;
+	background: url(img/minejlt.png) no-repeat 0% 66.5%;
+	background-size: 10.5rem;
+}
+.mine_all_order {
+	position: relative;
+	width: 100%;
+	height: 10%;
+	overflow: visible;
+}
+.mine_all_order_list{
+	width:100%;
+	padding: .22rem 0 .8rem;
+	background: #fff;
+	overflow: hidden;
+}
+.mine_all_order_list li{
+	float: left;
+	width: 25%;
+	text-align: center;
+	position: relative;
+	font-size: .24rem;
+}
+.mine_all_order_list>li:nth-child(1){
+	color: #FF7A9A;
+}
+.mine_all_order_list>li>span{
+	display: block;
+	width: .8rem;
+	height: .8rem;
+	margin: .9rem auto;
+}
+.mine_all_order_wrap{
+	overflow: hidden;
+}
+.mine_wrap_content{
+	position: relative;
+}
+.no_order{
+	text-align: center;
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+.no_order img{
+	width: 30%;
+	display: inline-block;
+}
+.no_order p{
+	font-size: .28rem;
+	padding-top: 2%;
+	font-weight: normal;
+}
+.mine_pullUp{
+	text-align: center;
+	line-height: 4rem;
+	font-size: .4rem;
+	color: #888;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 4rem;
+	height: 4rem;
+}
+.mine_pullUp span{
+	white-space: nowrap;
+	margin-left: -2rem;
+}
+
+.mine_all_order_wrap .tab_css{
+	display: none;
+}
+#tab1_content{
+	display: block;
 }

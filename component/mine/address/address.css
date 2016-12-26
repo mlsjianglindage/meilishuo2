@@ -1,0 +1,109 @@
+/*#userAddress{background: #F4F4F4;*/
+    /*width:100%;*/
+    /*height:100%;}*/
+/*userAddress header*/
+.user_address_header{
+    height: 3.92rem;
+    width: 100%;
+    background: #fff;
+    overflow: hidden;
+    text-align: center;
+    color: #333;
+    line-height:3.92rem;
+    border-bottom: 1px solid rgba(51,51,51,0.15);
+}
+.user_address{
+    z-index: 5;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    width: 1.8rem;
+    padding-left: 1.3rem;
+}
+.user_address a img{
+    width: .8rem;
+    display: inline-block;
+    margin-top: 1.28rem;
+}
+.user_address_add{
+    z-index: 5;
+    font-size: 1.55rem;
+    float: right;
+    padding-right: 1.3rem;
+    height: 3.92rem;
+}
+.user_address_title{
+    z-index: 1;
+    margin-left: 3.6rem;
+}
+.user_address_title a{
+    font-size: 1.55rem;
+    color: #666;
+}
+/*userAddress main*/
+.address_show{
+    margin-top:1.16rem;
+}
+.address_show .address_show_one{
+    background: #fff;
+}
+.address_show .address_show_one:first-child{
+    margin-bottom: 1.16rem;
+}
+.address_info{
+    padding: 1.3rem 0;
+    margin: 0 1.3rem;
+    border-bottom: 1px solid rgba(51,51,100,0.15);
+    font-size: 0;
+}
+.address_show .address_show_one:last-child .inner, .address_show .address_show_one:first-child .inner {
+    border-bottom: none;
+}
+.address_info>span{
+    width: 1.8rem;
+    height: 1.8rem;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: middle;
+    background: url("img/check.png") no-repeat center;
+    background-size: contain;
+}
+.address_detail{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 1.2rem;
+    border-right: 1px solid #E6E6E6;
+    width: 18rem;
+}
+.address_detail p{
+    font-size: .24rem;
+}
+.address_name{
+    font-size: .8rem;
+    color: #000;
+}
+.address_phone{
+    color: #000;
+    margin-left: 1.28rem;
+}
+.default_note{
+    background: #FFAB33;
+    font-size: .22rem;
+    margin-left: .46rem;
+    color: #fff;
+    padding: .02rem;
+    border-radius: .04rem;
+}
+.address_user_address{
+    line-height: 1.26rem;
+    color: #999;
+    padding-top: .8rem;
+}
+.address_write{
+    width: 1.3rem;
+    height: 1.3rem;
+    display: inline-block;
+    background: url("img/write.png") no-repeat center;
+    vertical-align: middle;
+    background-size: contain;
+}

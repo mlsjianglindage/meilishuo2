@@ -1,0 +1,151 @@
+
+*{
+    box-sizing: border-box;
+}
+
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset,img {
+    border: none;
+}
+
+address,caption,cite,code,dfn,th,var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+ul,ol,li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.clearfix{
+    content: ".";
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.Homehead{width: 100%;height: 4rem;background: url("homeImg/head.png") no-repeat;background-size:100%;}
+ .HomeSearch{width: 100%;height: 3rem;}
+ .HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
+.HomeSearch{width: 100%;height: 3rem;}
+.HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
+
+.HomeSearch input{width: 65%;height: 2rem;display: inline-block;float: left;margin-top: 0.5rem;border:#35a5e5 1px solid;box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border-radius:0.3rem;}
+.HomeSearch .HomeSearchRight{float: right;width: 20%;height: 100%;background: url("homeImg/homesearch2.jpg")no-repeat center;background-size: 70% 100%;}
+.swiper-container {height: 28%;width: 100%;}
+.swiper-wrapper img{width: 100%;height: 100%;}
+
+/*每日上新*/
+.list1{width:100%;height:7rem;padding: 0.5rem;overflow-x: scroll;overflow-y: hidden;position: relative;}
+.list1 ul{width: 33rem;height: 100%;overflow-x: scroll;overflow-y: hidden;position: absolute;overflow-y: hidden;}
+.list1 li{width:6rem;height: 100%;float: left;margin-right: 0.6rem;text-align: center;}
+.list1 li:last-child{margin-right: 0;}
+.list1 li img{width: 100%;height: 100%;}
+
+.higqulity{width: 100%;height: auto;margin-top:1rem;background: #f2f2f2;}
+.higqulity .cloth1{width: 100%;height: 28rem;margin-top: 1.5rem;}
+.higqulity .cloth1 .titleBox{width: 100%;height: 60%;position:relative;}
+.higqulity .cloth1 .titleBox .zz{width: 100%;height: 100%;background: rgba(0,0,0,0.3);z-index: 5;position: absolute;top: 0;left: 0;}
+.higqulity .cloth1 .titleBox img{width: 100%;height: 100%;z-index: 1;}
+.higqulity .cloth1 .titleBox .titleBoxP1{position: absolute;top: 12rem;left:20%;margin: auto;color: white;font-size: 1.7rem;z-index: 6;}
+.higqulity .cloth1 .titleBox .titleBoxP2{position: absolute;top: 14rem;left: 40%;margin: auto;color: white;z-index: 6;}
+
+.cloth1List{width:100%;height:12rem;padding: 0.5rem;overflow-x: scroll;overflow-y: hidden;scrollbar-face-color: #fcfcfc;
+    position: relative;background: white;}
+.cloth1List ul{width: 42.2rem;height: 100%;overflow-x: scroll;overflow-y: hidden;position: absolute;}
+.cloth1List li{width:7.8rem;height: 100%;float: left;margin-right: 0.6rem;text-align: center;}
+.cloth1List li:last-child{margin-right: 0;}
+.cloth1List li img{width: 90%;height:70%;}
+.cloth1List li p:nth-of-type(1){width:100%;height:1.5rem;display:block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;font-size:1rem;}
+.cloth1List li p:last-child{width:100%;height:1.5rem;display:block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;color: red;font-size: 1rem;}
+
+.cloth1 .lookMore{width: 100%;height: 4rem;text-align: center;line-height: 4rem;border-top: 1px solid #666;color: deeppink;font-size: 1.2rem;}
+
+/*最新，精选，更多*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,1 +1,71 @@
-<h1>我是mine</h1>
+<div data-ui-view="">
+    <div id="mine">
+        <!--mine header-->
+        <header class="mineHeader">
+            <div class="mineGoBack"><a href="#home"><img src="component/buycar/img/buyback.png" alt=""></a></div>
+            <div class="mineback"><a href="#home">退出</a></div>
+            <div class="mineTitle"><a href="javascript:void (0)">个人中心</a></div>
+        </header>
+        <!--mine main-->
+        <div class="mine_main">
+            <div class="mine_userInfo">
+                <div class="mine_user_img">
+                    <div class="mine_user_img_inner"><img src="component/mine/img/userImg.jpeg" alt=""></div>
+                </div>
+                <p class="mine_user_name">_小lu子</p>
+                <div class="mine_user_list">
+                    <a href="" ui-sref=".scbb"><span class="mine_user_list_num">0</span>收藏的宝贝</a>
+                    <a href="" ui-sref=".shop"><span class="mine_user_list_num">0</span>收藏的店铺</a>
+                    <a href="" ui-sref=".youhui"><span class="couponIcon"></span>优惠券</a>
+                    <a href="" ui-sref=".address"><span class="addressIcon"></span>收货地址</a>
+                </div>
+            </div>
+            <div class="mine_all_order">
+                <ul class="mine_all_order_list">
+                    <li ng-click="changeThisStyle(1)" id="tab1"><span class="fa fa-file-o"></span>全部订单</li>
+                    <li ng-click="changeThisStyle(2)" id="tab2"><span class="fa fa-credit-card"></span>待付款</li>
+                    <li ng-click="changeThisStyle(3)" id="tab3"><span class="fa fa-times-rectangle-o"></span>待收货</li>
+                    <li ng-click="changeThisStyle(4)" id="tab4"><span class="fa fa-truck"></span>待评价</li>
+                </ul>
+            </div>
+            <div class="mine_all_order_wrap">
+                <div class="tab_css" id="tab1_content">
+                    <div class="mine_wrap_content">
+                        <div class="no_order">
+                            <img src="component/mine/img/noorder.png" alt="">
+                            <p>你还没有相关的订单</p>
+                        </div>
+                    </div>
+                    <div class="mine_pullUp"><span>木有了...</span></div>
+                </div>
+                <div class="tab_css" id="tab2_content">
+                    <div class="mine_wrap_content">
+                        <div class="no_order">
+                            <img src="component/mine/img/noorder.png" alt="">
+                            <p>2你还没有相关的订单</p>
+                        </div>
+                    </div>
+                    <div class="mine_pullUp"><span>木有了...</span></div>
+                </div>
+                <div class="tab_css" id="tab3_content">
+                    <div class="mine_wrap_content">
+                        <div class="no_order">
+                            <img src="component/mine/img/noorder.png" alt="">
+                            <p>3你还没有相关的订单</p>
+                        </div>
+                    </div>
+                    <div class="mine_pullUp"><span>木有了...</span></div>
+                </div>
+                <div class="tab_css" id="tab4_content">
+                    <div class="mine_wrap_content">
+                        <div class="no_order">
+                            <img src="component/mine/img/noorder.png" alt="">
+                            <p>4你还没有相关的订单</p>
+                        </div>
+                    </div>
+                    <div class="mine_pullUp"><span>木有了...</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

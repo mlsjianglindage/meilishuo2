@@ -1,4 +1,4 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule']);
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -39,6 +39,24 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              templateUrl: "component/home/yzlx/yzlx.html",
              controller:'yzlxCtrl',
              css:'component/home/yzlx/yzlx.css'
+         })
+         .state("home.moren", {
+             url:"/moren",
+             templateUrl: "component/home/moren/moren.html",
+             controller:'morenCtrl',
+             css:'component/home/moren/moren.css'
+         })
+         .state("home.zuixin", {
+             url:"/zuixin",
+             templateUrl: "component/home/zuixin/zuixin.html",
+             controller:'zuixinCtrl',
+             css:'component/home/zuixin/zuixin.css'
+         })
+         .state("home.jingxuan", {
+             url:"/jingxuan",
+             templateUrl: "component/home/jingxuan/jingxuan.html",
+             controller:'jingxuanCtrl',
+             css:'component/home/jingxuan/jingxuan.css'
          })
         .state("category", {
             url:"/category",
@@ -91,3 +109,47 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
          })
 
 });
+
+myApp.controller('myCtrl',['$scope',function($scope){
+    $scope.isActive1=true;
+    $scope.changeStyle=function(){
+        $scope.changesStyle=true;
+        $scope.isActive1=true;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle2=function(){
+        $scope.changesStyle2=true;
+        $scope.isActive2=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle3=function(){
+        $scope.changesStyle3=true;
+        $scope.isActive3=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle4=function(){
+        $scope.changesStyle4=true;
+        $scope.isActive4=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+    }
+}])
