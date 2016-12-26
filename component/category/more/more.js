@@ -8,18 +8,18 @@ angular.module('moreModule',[])
     .service('dataMore2',['$http',function($http){
         return $http.get('resource/erjiyemian/category3.json')
     }])
-    .controller('moreCtrl',['$scope','dataMore','dataMore1','dataMore2',function($scope,dataMore,dataMore1,dataMore2){
+    .controller('moreCtrl',['$scope','dataMore','dataMore1','dataMore2','$location', '$anchorScroll',function($scope,dataMore,dataMore1,dataMore2,$location, $anchorScroll){
         dataMore.success(function(res){
             $scope.arr = res.data1.list;
-            console.log(res.data1.list)
+            // console.log(res.data1.list)
         })
         dataMore1.success(function(res){
             $scope.arr1 = res.data1.list;
-            console.log(res.data1.list)
+            // console.log(res.data1.list)
         })
         dataMore2.success(function(res){
             $scope.arr2 = res.data1.list;
-            console.log(res.data1.list)
+            // console.log(res.data1.list)
         })
         $scope.moreFashion=function(){
             $scope.show1=false;
@@ -45,11 +45,10 @@ angular.module('moreModule',[])
             $scope.moreChangeColor2=false;
             $scope.moreChangeColor1=false;
         }
-        // $(window).scroll(function(){
-        //     if($(window).scrollTop() >300){
-        //         $(".moreTop").attr("style","position: flexd; top:0;z-index:3;width:100%;");
-        //     }else{
-        //         $(".moreTop").attr("style","");
-        //     }
-        // })
+        $scope.moreGoTop=function(){
+            $location.hash('categoryTopimg');
+            $anchorScroll();
+            // console.log('dd')
+        }
+
     }])
