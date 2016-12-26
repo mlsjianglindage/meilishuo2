@@ -28,11 +28,10 @@
 
 .moreColor1{color:#ef4562;}
 .moreColor2{color:#333;}
-
-
-
-
-
+/*go top*/
+#moreGoTop{width:3rem;height:3rem;position:fixed;bottom: 11%;right: 2%;z-index: 3;
+    background: url(http://s17.mogucdn.com/p2/160809/upload_3del30f43605cd3k4bffclgl62l40_80x80.png) no-repeat;
+    background-size: 100%; }
 
 
 

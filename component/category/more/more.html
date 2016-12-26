@@ -1,14 +1,14 @@
 <div data-ui-view="" id="categoryMore">
-    <div class="categoryTopimg">
+    <div class="categoryTopimg" id="categoryTopimg">
         <img src="img/categorytop.png" alt="">
     </div>
-    <div class="categorySearch">
+    <<div class="categorySearch">
         <div class="categoryDazuiba"><a href="#home"></a></div>
-        <input type="search" autocomplete="off" placeholder="毛呢外套" data-value="毛呢外套">
+    <input type="search" autocomplete="off" placeholder="毛呢外套" data-value="毛呢外套">
         <div class="categorySearchDian"></div>
     </div>
 
-    <div class="moreTop">
+    <div class="moreTop" id="moreTopId">
         <ul>
             <li ng-click="moreFashion()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor1]" class="moreTopLi">流行</li>
             <li ng-click="moreHot()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor2]">热销</li>
@@ -45,3 +45,6 @@
             </li>
         </ul>
     </div>
+    <div class="clearfix"></div>
+    <div id="moreGoTop" ng-click="moreGoTop()"></div>
+</div>
