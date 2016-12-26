@@ -1,4 +1,45 @@
 angular.module('mineModule',[])
 .controller('mineCtrl',['$scope',function($scope){
-	console.log(444);
+	$scope.changeStyle=true;
+	$scope.changeBground=true;
+	$scope.changeThisStyle=function(){
+		$scope.changeStyle=true;
+		$scope.changeBground=true;
+		$scope.changeStyle2=false;
+		$scope.changeBground2=true;
+		$scope.changeStyle3=false;
+		$scope.changeBground3=true;
+		$scope.changeStyle4=false;
+		$scope.changeBground4=true;
+	}
+	$scope.changeThisStyle2=function(){
+		$scope.changeStyle2=true;
+		$scope.changeBground2=false;
+		$scope.changeStyle=false;
+		$scope.changeBground=false;
+		$scope.changeStyle3=false;
+		$scope.changeBground3=true;
+		$scope.changeStyle4=false;
+		$scope.changeBground4=true;
+	}
+	$scope.changeThisStyle3=function(){
+		$scope.changeStyle3=true;
+		$scope.changeBground3=false;
+		$scope.changeStyle=false;
+		$scope.changeBground=false;
+		$scope.changeStyle2=false;
+		$scope.changeBground2=true;
+		$scope.changeStyle4=false;
+		$scope.changeBground4=true;
+	}
+	$scope.changeThisStyle4=function(){
+		$scope.changeStyle4=true;
+		$scope.changeBground4=false;
+		$scope.changeStyle=false;
+		$scope.changeBground=false;
+		$scope.changeStyle2=false;
+		$scope.changeBground2=true;
+		$scope.changeStyle3=false;
+		$scope.changeBground3=true;
+	}
 }])
