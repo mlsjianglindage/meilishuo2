@@ -1,1 +1,103 @@
-.Homehead{width: 100%;height: 14rem;background: url("homeImg/head.png") no-repeat;background-size:100%;}
+.Homehead{width: 100%;height: 4rem;background: url("homeImg/head.png") no-repeat;background-size:100%;}
+<<<<<<< HEAD
+ .HomeSearch{width: 100%;height: 3rem;}
+ .HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
+=======
+.HomeSearch{width: 100%;height: 3rem;}
+.HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
+>>>>>>> zhufeng
+.HomeSearch input{width: 65%;height: 2rem;display: inline-block;float: left;margin-top: 0.5rem;border:#35a5e5 1px solid;box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border-radius:0.3rem;}
+.HomeSearch .HomeSearchRight{float: right;width: 20%;height: 100%;background: url("homeImg/homesearch2.jpg")no-repeat center;background-size: 70% 100%;}
+.swiper-container {height: 25%;width: 100%;}
+.swiper-wrapper img{width: 100%;height: 100%;}
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+>>>>>>> zhufeng

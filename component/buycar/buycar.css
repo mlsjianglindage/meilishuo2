@@ -1,6 +1,7 @@
+/*#buycar{background: #f4f4f4;}*/
 #buycar input{vertical-align: middle;}
 #buycar a{color: #666;}
-/*buycar */
+/*buycar header*/
 .buyHeader{
 	height: 3.92rem;
 	width: 100%;
@@ -78,19 +79,11 @@
 
 /*点击切换没有选中效果*/
 /*.buycarList .cartList .buycarShop .buyBox_btn label{*/
-<<<<<<< HEAD
 	/*float: left;*/
 	/*width: 1.44rem;*/
 	/*height: 1.45rem;*/
 	/*background: url("img/noselect.png") center no-repeat;*/
 	/*background-size: 1.44rem;*/
-=======
-/*float: left;*/
-/*width: 1.44rem;*/
-/*height: 1.45rem;*/
-/*background: url("img/noselect.png") center no-repeat;*/
-/*background-size: 1.44rem;*/
->>>>>>> hulu
 /*}*/
 
 .buycarList .cartList .buycarShop .buyShop_name{
@@ -105,9 +98,9 @@
 	float: right;
 	width: 2rem;
 	height:2rem;
-	margin-left: 1.2rem;
 	text-indent: -999em;
-	background: url("img/fold.png") no-repeat 0 -8%;
+	background: url("img/fold.png") no-repeat -30% -8%;
+	/*隐藏箭头:background: url("img/fold.png") no-repeat 100% -8%*/
 	background-size: 4rem;
 	font-size: 1.1rem;
 }
@@ -154,20 +147,18 @@
 	float: left;
 	margin-left: 1rem;
 	width: 60.16rem;
-	/*background: rosybrown;*/
 }
 .buycar_goods_main>a{
 	position: relative;
 	float: left;
-	width: 5.5rem;
-	height: 5.5rem;
+	width: 5.2rem;
+	height: 5.2rem;
 }
 .buycar_goods_main a img{
 	width:95%;
 	height:100%;
 }
 .buycar_goods_main .buycar_goods_info{
-	/*background: seagreen;*/
 	float: left;
 }
 .buycar_goods_main .buycar_goods_info a>p{
@@ -184,23 +175,22 @@
 .buycar_goods_main .buycar_goods_info .buycar_goods_prop{
 	font-size: .2rem;
 	color: #999;
-	margin: .3rem 0 1.08rem;
+	margin: .3rem 0 .5rem;
 	overflow: hidden;
 }
 .buycar_goods_main .buycar_goods_info .buycar_goods_prop span{
 	float: left;
-	/*padding-bottom: 1.05rem;*/
 }
 .buycar_goods_main .buycar_goods_info .buycar_goods_prop .style_color{
-	margin-right: 1.05rem;
+	margin-right: .5rem;
 }
 .buycar_goods_main .buycar_goods_info .buycar_numBox{
 	position: relative;
 }
 .buycar_goods_main .buycar_goods_info .buycar_numBox .minus{
-	/*text-indent: -999em;*/
-	/*background: url("img/fold.png") no-repeat -12% 54%;*/
-	/*background-size: 1rem;*/
+	text-indent: -999em;
+	background: url("img/fold.png") no-repeat -8% 54%;
+	background-size: 4rem;
 	float: left;
 	width: 2rem;
 	height: 2rem;
@@ -221,7 +211,7 @@
 	border-top: 1px solid rgba(204,194,201,0.6);
 	border-bottom: 1px solid rgba(204,194,201,0.6);
 	line-height: 1.9rem;
-	width: 4rem;
+	width: 2.5rem;
 	text-align: center;
 	font-size: 1.28rem;
 	color: #80737b;
@@ -236,14 +226,13 @@
 	line-height: 2rem;
 	border-top-right-radius: .03rem;
 	border-bottom-right-radius: .03rem;
-	/*text-indent: -999em;*/
-	/*background: url("img/fold.png") no-repeat 126% 55%;*/
-	/*background-size: 1rem;*/
+	text-indent: -999em;
+	background: url("img/fold.png") no-repeat 120% 54%;
+	background-size:4rem;
 }
 .buycar_goods_main .buycar_goods_right{
 	position: relative;
 	text-align: right;
-	background: red;
 	width: 3rem;
 	height: 3rem;
 	left: 19rem;
@@ -252,10 +241,11 @@
 	color: #ff7a9a;
 	height: 1.24rem;
 	position: absolute;
+	right:0;
 	font-size: 1.1rem;
 }
 .buycar_goods_origin_price{
-	margin: 1.12rem 0 1.2rem 0;
+	margin: 1.6rem 0 1.2rem 0;
 	font-size: 1.2rem;
 	color: #999;
 	text-decoration: line-through;
@@ -264,13 +254,105 @@
 	right: 0;
 }
 .buycar_goods_dele_btn{
-	/*position: absolute;*/
-	/*right: -1.1rem;*/
-	/*bottom: -1.35rem;*/
-	/*height: 1.5rem;*/
-	/*width: 1.9rem;*/
-	/*text-align: left;*/
-	/*text-indent: -999em;*/
-	background: url("img/fold.png") no-repeat -337px 9px;
-	background-size: 10rem;
+	position: absolute;
+	right: 0rem;
+	bottom: -1.8rem;
+	height: 1.5rem;
+	width: 1.9rem;
+	text-align: left;
+	text-indent: -999em;
+	background:url("img/fold.png") no-repeat -8% 101%;
+	background-size: 4rem;
+}
+
+/*buycar total*/
+.buycar_total{
+	position: relative;
+	z-index: 10;
+}
+.buycar_total .buycar_total_ctrl{
+	position: fixed;
+	bottom: 10%;
+	left: 0;
+	width: 58rem;
+	padding: 1.2rem 1.3rem;
+	background: #fff;
+	border-top: 1px solid rgba(51,51,51,0.2);
+}
+.buycar_goods_check_total{
+	float: left;
+	margin-top: .5rem;
+	line-height: 1.44rem;
+	font-size: 1.1rem;
+	color: #666;
+	margin-right: 1.8rem;
+}
+.buycar_total_ctrl .buyBox_btn{
+	width: 1.44rem;
+	height: 1.46rem;
+	float: left;
+	margin-right: 1.05rem;
+}
+.buycar_total .buycar_total_ctrl .buyBox_btn .select_all_shop{
+	margin-left: -10rem;
+}
+.buycar_total .buycar_total_ctrl .buyBox_btn label{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	background: url(img/check.png) no-repeat center;
+	background-size: 1.8rem;
+	margin-top: -0.5rem;
+}
+.order_msg{
+	float: left;
+	margin-right: 1.2rem;
+	font-size: 1.22rem;
+}
+.order_msg_price{
+	margin-bottom: .1rem;
+	font-size: .24rem;
+}
+.order_msg_totalPrice{
+	font-size: .28rem;
+	color: #ff7a9a;
+}
+.order_msg_notic{
+	color: #999;
+	font-size: .28rem;
+}
+.buycar_total_ctrl input{
+	float: left;
+	background-color: #f66;
+	color: #fff;
+	border-radius: .03rem;
+	width: 7.3rem;
+	height: 2.6rem;
+	line-height: 2.6rem;;
+	font-size: .24rem;
+	border: 0;
+	text-align: center;
+}
+
+/*没有商品时的样式*/
+.none_info {
+	text-align: center;
+	padding-top: 8rem;
+}
+.none_info p{
+	line-height: 1.3rem;
+	font-size: .4rem;
+	color: #666;
+}
+.none_info #goCategory{
+	color: #fff;
+	display: block;
+	width: 6.4rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding: .7rem 0;
+	margin-top: 1.4rem;
+	border-radius: .3rem;
+	background-color: #f66;
+	font-size: .4rem;
 }
