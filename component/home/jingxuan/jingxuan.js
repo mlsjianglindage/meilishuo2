@@ -3,5 +3,5 @@
  */
 angular.module('jingxuanModule',[])
     .controller('jingxuanCtrl',['$scope',function($scope){
-        console.log(111);
+        //console.log(111);
     }])

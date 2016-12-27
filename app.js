@@ -1,4 +1,4 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -33,6 +33,12 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              templateUrl: "component/home/nzdp/nzdp.html",
              controller:'nzdpCtrl',
              css:'component/home/nzdp/nzdp.css'
+         })
+         .state("home.nzdp.nzdpDetial", {
+             url:"/nzdpDetial",
+             templateUrl: "component/home/nzdp/nzdpDetial/nzdpDetial.html",
+             controller:'nzdpDetialCtrl',
+             css:'component/home/nzdp/nzdpDetial/nzdpDetial.css'
          })
          .state("home.yzlx", {
              url:"/yzlx",

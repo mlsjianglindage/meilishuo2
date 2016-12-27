@@ -84,21 +84,36 @@
             </div>
             <div class="lookMore"><p>查看更多>></p></div>
         </div>
-     </div>
-<!--默认最新精选-->
-<div class="productList">
-    <div class="productTitle"><span>默认</span><span>最新</span><span>精选</span></div>
-    <div ui-view=""></div>
+        <!--默认最新精选-->
+        <div class="clearfix"></div>
+        <div class="productList">
+            <div class="productTitle">
+                <span ng-click="UL1()"><a href="">默认</a></span>
+                <span ng-click="UL2()"><a href="">最新</a></span>
+                <span ng-click="UL3()"><a href="">精选</a></span>
+            </div>
+            <div class="clearfix"></div>
+          <div class="productList1">
+          	<ul ng-show="flag1">
+          		<li ng-repeat="obj in arr2"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+          	</ul>
+
+              <ul ng-show="flag2">
+                  <li ng-repeat="obj in arr3"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+              </ul>
+
+              <ul ng-show="flag3">
+                  <li ng-repeat="obj in arr4"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+              </ul>
+
+          </div>
+
+        </div>
+
 </div>
 
 
 
-
-
-
-
-
-</div>
 
 
 

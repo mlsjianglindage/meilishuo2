@@ -3,5 +3,5 @@
  */
 angular.module('zuixinModule',[])
     .controller('zuixinCtrl',['$scope',function($scope){
-        console.log(111);
+        //console.log(111);
     }])

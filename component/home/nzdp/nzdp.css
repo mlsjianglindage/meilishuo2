@@ -1,0 +1,30 @@
+.nzdpImg1{width: 97.5%;height: 35.7rem;}
+.nzdpImg1 img{width: 100%;height: 100%;}
+.nzdpImg2{width: 97.5%;height: 28rem;}
+.nzdpImg2 img{width: 100%;height: 100%;}
+
+.nzdpImg3{width: 97.5%;height: 22rem;}
+.nzdpImg3 img{width: 100%;height: 100%;}
+
+.nzdpList{width: 100%;height: auto;}
+.nzdpList .nzdpTap{width: 100%;height: 3rem;}
+.nzdpList .nzdpTap a{width: 25%;height: 100%;display: block;float: left;text-align: center;line-height: 3rem;}
+.nzdpList ul{width: 100%;height: auto;padding: 0.2rem;font-size: 0;}
+.nzdpList ul li{width: 49%;height: 21rem;float: left;margin-top: 0.3rem;}
+.nzdpList ul li:nth-child(even){float: right;}
+.nzdpList ul li .liImg{width: 100%;height: 85%;}
+.nzdpList ul li .liImg img{width: 100%;height: 100%;}
+.nzdpList ul li p{width: 100%;height: 1.5rem;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;font-size:1rem;margin-top: 0.5rem;margin-left: 0.3rem;}
+.nzdpList ul li .price{width: 100%;height:auto;margin-top: 0.1rem;text-align: center;font-size: 1rem;}
+.nzdpList ul li .price span:first-child{margin-right: 0.4rem;color: #ef4562;}
+.nzdpList ul li .price span:last-child{text-decoration: line-through;}
+
+
+
+
+
+
+
+
+
+
