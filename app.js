@@ -1,4 +1,4 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','moreShopModule']);
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -76,6 +76,13 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              controller:'searchCtrl',
              css:'component/category/search/search.css'
          })
+         .state("category.more.moreShop", {
+             url:"/moreShop",
+             templateUrl: "component/category/more/moreShop/moreShop.html",
+             controller:'moreShopCtrl',
+             css:'component/category/more/moreShop/moreShop.css'
+         })
+
         .state("buycar", {
             url: "/buycar",
             templateUrl: "component/buycar/buycar.html",
