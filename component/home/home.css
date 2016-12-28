@@ -80,6 +80,7 @@ a {
 .productList .productList1 ul{width: 100%;height: 100%;}
 .productList .productList1 ul li{width: 49%;height: 21rem;;float: left;}
 .productList .productList1 ul li:nth-child(odd){margin-right: 0.5rem;}
+.productList .productList1 ul li:last-child{height: 5rem;}
 .productList .productList1 ul li img{width: 100%;height: 80%;}
 .productList .productList1 ul li p{width: 100%;display:block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;margin-top: 0.5rem;font-size: 1.3rem;}
 .productList .productList1 ul li span{width: 50%;margin-top: 0.3rem;height:1.5rem;float: left;display: inline-block;text-align: center;font-size: 1.1rem;}
