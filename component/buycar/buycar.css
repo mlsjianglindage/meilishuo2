@@ -136,13 +136,22 @@
 .buycarList .cartList .order_goods_list .buycar_goods .select_shop{
 	margin-left: -10rem;
 }
-.buycarList .cartList .order_goods_list .buycar_goods label{
+.buycarList .cartList .order_goods_list .buycar_goods .selected{
 	float: left;
 	width: 2rem;
 	height: 2rem;
 	background: url("img/check.png") no-repeat center;
 	background-size: 1.8rem;
 }
+
+.buycarList .cartList .order_goods_list .buycar_goods .noselect{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	background: url("img/noselect.png") no-repeat center;
+	background-size: 1.8rem;
+}
+
 .buycar_goods_main{
 	float: left;
 	margin-left: 1rem;
@@ -297,7 +306,7 @@
 .buycar_total .buycar_total_ctrl .buyBox_btn .select_all_shop{
 	margin-left: -10rem;
 }
-.buycar_total .buycar_total_ctrl .buyBox_btn label{
+.buycar_total .buycar_total_ctrl .buyBox_btn .chocie_all{
 	float: left;
 	width: 2rem;
 	height: 2rem;
@@ -305,6 +314,16 @@
 	background-size: 1.8rem;
 	margin-top: -0.5rem;
 }
+.buycar_total .buycar_total_ctrl .buyBox_btn .isChocie_all{
+	float: left;
+	width: 2rem;
+	height: 2rem;
+	background: url(img/noselect.png) no-repeat center;
+	background-size: 1.8rem;
+	margin-top: -0.5rem;
+}
+
+
 .order_msg{
 	float: left;
 	margin-right: 1.2rem;
@@ -361,7 +380,14 @@
 
 
 /*弹出信息*/
-.alert{
+@keyframes show{
+	0%{transform:scale(1);}
+	100%{transform:scale(0);}
+}
+
+
+.minCount{
+	display: none;
 	color: #fff;
 	font-size: 1rem;
 	background: #333333;
@@ -370,6 +396,49 @@
 	position: fixed;
 	left: 37%;
 	top: 50%;
+	line-height: 3rem;
+	text-align: center;
+}
+.maxCount{
+	animation: show 3s forwards;
+	display: block;
+	color: #fff;
+	font-size: 1rem;
+	background: #333333;
+	width: 10rem;
+	height: 3rem;
+	position: fixed;
+	left: 37%;
+	top: 39%;
+	line-height: 3rem;
+	text-align: center;
+}
+
+/*删除成功*/
+.true{
+	display: none;
+	color: #fff;
+	font-size: 1rem;
+	background: #333333;
+	width: 10rem;
+	height: 3rem;
+	position: fixed;
+	left: 37%;
+	top: 50%;
+	line-height: 3rem;
+	text-align: center;
+}
+.false{
+	display: block;
+	animation: show 3s forwards;
+	color: #fff;
+	font-size: 1rem;
+	background: #333333;
+	width: 10rem;
+	height: 3rem;
+	position: fixed;
+	left: 37%;
+	top: 39%;
 	line-height: 3rem;
 	text-align: center;
 }

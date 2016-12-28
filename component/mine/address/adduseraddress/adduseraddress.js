@@ -40,10 +40,10 @@ angular.module('adduseraddressModule', [])
 	//存值
 	var id=0;
 	$scope.saveInfo=function(n,p,sn,s2n,s3v,d,m){
-
-		id++;console.log(id);
 		//取值
-		$scope.arrArray=JSON.parse(localStorage.getItem('addressDetailInfo'));
+		$scope.arrArray=JSON.parse(localStorage.getItem('addressDetailInfos'));
+		id++;console.log(id);
+
 		if(!$scope.arrArray){
 			$scope.arrArray=[];
 		}
@@ -61,7 +61,7 @@ angular.module('adduseraddressModule', [])
 		}
 		$scope.arrArray.push(objs);
 		//存值
-		localStorage.setItem('addressDetailInfo',JSON.stringify($scope.arrArray));
+		localStorage.setItem('addressDetailInfos',JSON.stringify($scope.arrArray));
 		console.log($scope.arrArray);
 	}
 	

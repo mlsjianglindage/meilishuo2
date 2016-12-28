@@ -4,6 +4,6 @@
 angular.module('addressModule',[])
     .controller('addressCtrl',['$scope',function($scope){
     	//取值
-        $scope.objArr=JSON.parse(localStorage.getItem('addressDetailInfo'));
+        $scope.objArr=JSON.parse(localStorage.getItem('addressDetailInfos'));
 		console.log($scope.objArr);
     }])
