@@ -1,11 +1,11 @@
 
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoude']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','me-lazyload','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','moreShopModule','searchModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
 
 
 myApp.config(function ($stateProvider, $urlRouterProvider) {
-	
+
 	$urlRouterProvider.when("", "/home");
-	
+
 	 $stateProvider
         .state("home", {
             url: "/home",

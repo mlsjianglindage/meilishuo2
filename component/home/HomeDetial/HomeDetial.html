@@ -7,7 +7,7 @@
           <div class="infoPrice"><span>{{HomeDetialobj.price}}</span><span>{{HomeDetialobj.orgPrice}}</span><span>{{HomeDetialobj.itemType}}折</span></div>
 
       </div>
-
+     <div class="diandi"></div>
    </div>
 
     <div class="HomeDetialBottom">
@@ -21,7 +21,7 @@
     <div class="toBuyDetial" ng-show="isShow">
         <div class="toBuyDetial1">
             <div class="skuTitle">
-                <img src="{{HomeDetialobj.show.img}}" alt="">
+                <img lazy-src="{{HomeDetialobj.show.img}}" alt="">
                 <div class="skuTitle1">
                     <b ng-click="close()">×</b>
                     <p>{{HomeDetialobj.title}}</p>

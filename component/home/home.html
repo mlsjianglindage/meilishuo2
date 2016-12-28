@@ -93,19 +93,19 @@
                 <span ng-click="UL3()"><a href="">精选</a></span>
             </div>
             <div class="clearfix"></div>
-          <div class="productList1">
+          <div class="productList1" >
           	<ul ng-show="flag1">
-          		<li ng-repeat="obj in arr2" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+          		<li ng-repeat="obj in arr2" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img lazy-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
           	</ul>
 
               <ul ng-show="flag2">
-                  <li ng-repeat="obj in arr3" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+                  <li ng-repeat="obj in arr3" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img lazy-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
               </ul>
 
               <ul ng-show="flag3">
-                  <li ng-repeat="obj in arr4" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+                  <li ng-repeat="obj in arr4" ng-click="lookHomeList(obj)" ui-sref="home.HomeDetial"><img lazy-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
               </ul>
-
+             
           </div>
 
         </div>

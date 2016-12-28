@@ -34,7 +34,8 @@ a {
 }
 
 .Homehead{width: 100%;height: 4rem;background: url("homeImg/head.png") no-repeat;background-size:100%;}
- .HomeSearch{width: 100%;height: 3rem;}
+.diandi{width: 100%;height: 5rem;}
+.HomeSearch{width: 100%;height: 3rem;}
  .HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
 .HomeSearch{width: 100%;height: 3rem;}
 .HomeSearch a{float: left;width: 15%;height: 100%;display: inline-block;background: url("homeImg/homesearch1.jpg")no-repeat center;background-size:85% 100%; }
@@ -56,7 +57,7 @@ a {
 .higqulity .cloth1{width: 100%;height: 28rem;margin-top: 1.5rem;}
 .higqulity .cloth1 .titleBox{width: 100%;height: 60%;position:relative;}
 .higqulity .cloth1 .titleBox .zz{width: 100%;height: 100%;background: rgba(0,0,0,0.3);z-index: 5;position: absolute;top: 0;left: 0;}
-.higqulity .cloth1 .titleBox img{width: 100%;height: 100%;z-index: 1;}
+.higqulity .cloth1 .titleBox img{width: 100%;height: 100%;z-index: 10;}
 .higqulity .cloth1 .titleBox .titleBoxP1{position: absolute;top: 12rem;left:20%;margin: auto;color: white;font-size: 1.7rem;z-index: 6;}
 .higqulity .cloth1 .titleBox .titleBoxP2{position: absolute;top: 14rem;left: 40%;margin: auto;color: white;z-index: 6;}
 
