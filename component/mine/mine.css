@@ -145,6 +145,31 @@
 	height: .8rem;
 	margin: .9rem auto;
 }
+/*.mine_all_order_list>li:nth-child(1)>span{*/
+	/*background-position: -8% 87%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(1)>.noChangeBg{*/
+	/*background-position: -8% 106%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(2)>span{*/
+	/*background-position: 31% 108%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(2)>.noChangeBg{*/
+	/*background-position: 31% 87%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(3)>span{*/
+	/*background-position:66% 108%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(3)>.noChangeBg{*/
+	/*background-position: 66% 87%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(4)>span{*/
+	/*background-position: 106% 109%;*/
+/*}*/
+/*.mine_all_order_list>li:nth-child(4)>.noChangeBg{*/
+	/*background-position: 106% 87%;*/
+/*}*/
+
 .mine_all_order_wrap{
 	overflow: hidden;
 }
@@ -186,4 +211,17 @@
 }
 #tab1_content{
 	display: block;
+}
+#tab1_content>.mine_pullUp{
+	height: 30rem;
+}
+
+/*固定li的样式*/
+.fixednav {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 1;
+    background: silver;
 }

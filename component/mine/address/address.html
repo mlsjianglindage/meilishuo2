@@ -10,16 +10,16 @@
 	    <section>
 	        <div class="address_list">
 	            <ul class="address_show">
-	                <li class="address_show_one">
+	                <li class="address_show_one" ng-repeat="obj in objArr">
 	                    <div class="address_info">
 	                        <span></span>
 	                        <div class="address_detail">
 	                            <p>
-	                                <span class="address_name">hulu</span>
-	                                <span class="address_phone">134****9626</span>
+	                                <span class="address_name">{{obj.name}}</span>
+	                                <span class="address_phone">{{obj.phone}}</span>
 	                                <span class="default_note">默认</span>
 	                            </p>
-	                            <p class="address_user_address">新马路融科天城一期T6,2205</p>
+	                            <p class="address_user_address">{{obj.detail}}</p>
 	                        </div>
 	                        <a href="" ><span class="address_write" ui-sref=".addaddress"></span></a>
 	                    </div>
