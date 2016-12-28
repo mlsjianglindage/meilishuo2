@@ -27,24 +27,32 @@
 	<script src="component/home/zuixin/zuixin.js" type="text/javascript"></script>
 	<script src="component/home/jingxuan/jingxuan.js" type="text/javascript"></script>
 	<script src="component/home/moren/moren.js" type="text/javascript"></script>
+<<<<<<< HEAD
     <script src="component/home/nzdp/nzdpDetial/nzdpDetial.js" type="text/javascript"></script>
+=======
+>>>>>>> 1c153a45fea5125a3e7965e4bd111e042d1c0c26
 	<!--分类的js-->
 	<script src="component/category/more/more.js" type="text/javascript"></script>
+	<script src="component/category/more/moreShop/moreShop.js"></script>
+
 	<!--我的页面js-->
 	<script src="component/mine/scbb/scbb.js" type="text/javascript"></script>
 	<script src="component/mine/address/address.js" type="text/javascript"></script>
+	<script src="component/mine/address/addaddress/addaddress.js" type="text/javascript" charset="utf-8"></script>
+	<script src="component/mine/address/adduseraddress/adduseraddress.js" type="text/javascript" charset="utf-8"></script>
 	<script src="component/mine/youhui/youhui.js" type="text/javascript"></script>
 	<script src="component/mine/shop/shop.js" type="text/javascript"></script>
 </head>
-<body data-ng-app="myApp">
+<body data-ng-app="myApp" ng-controller="myCtrl">
 	<div id="wrap">
 		<!--data-ui-view=""承载其他页面-->
 		<div data-ui-view="" id="main"></div>
-		<ul id="footer">
-			<li ui-sref=".home"><a href="">特卖</a></li>
-			<li ui-sref=".category"><a href="">分类</a></li>
-			<li ui-sref=".buycar"><a href="">购物车</a></li>
-			<li ui-sref=".mine"><a href="">我的</a></li>
+
+		<ul id="tap" >
+			<li ng-click="changeStyle()" ui-sref=".home"><a href="" ng-class="{true:'active',false:'noActive'}[isActive1]"><span ng-class="{true:'changes',false:'noChanges'}[changesStyle]"></span><p>首页</p></a></li>
+			<li ng-click="changeStyle2()" ui-sref=".category"><a href="" ng-class="{true:'active',false:'noActive'}[isActive2]"><span ng-class="{true:'changes',false:'noChanges'}[changesStyle2]"></span><p>分类</p></a></li>
+			<li ng-click="changeStyle3()" ui-sref=".buycar"><a href="" ng-class="{true:'active',false:'noActive'}[isActive3]"><span ng-class="{true:'changes',false:'noChanges'}[changesStyle3]"></span><p>购物车</p></a></li>
+			<li ng-click="changeStyle4()" ui-sref=".mine"><a href="" ng-class="{true:'active',false:'noActive'}[isActive4]"><span ng-class="{true:'changes',false:'noChanges'}[changesStyle4]"></span><p>我</p></a></li>
 		</ul>
 	</div>
 </body>

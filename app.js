@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
+=======
+<<<<<<< HEAD
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule']);
+=======
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','moreShopModule']);
+>>>>>>> e930671041d7941342d089da81715d0a8f375775
+>>>>>>> 1c153a45fea5125a3e7965e4bd111e042d1c0c26
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -82,6 +90,22 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'moreCtrl',
             css:'component/category/more/more.css'
         })
+<<<<<<< HEAD
+=======
+         .state("category.search", {
+             url:"/search",
+             templateUrl: "component/category/search/search.html",
+             controller:'searchCtrl',
+             css:'component/category/search/search.css'
+         })
+         .state("category.more.moreShop", {
+             url:"/moreShop",
+             templateUrl: "component/category/more/moreShop/moreShop.html",
+             controller:'moreShopCtrl',
+             css:'component/category/more/moreShop/moreShop.css'
+         })
+
+>>>>>>> e930671041d7941342d089da81715d0a8f375775
         .state("buycar", {
             url: "/buycar",
             templateUrl: "component/buycar/buycar.html",
@@ -100,6 +124,18 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              templateUrl: "component/mine/address/address.html",
              controller:'addressCtrl',
              css:'component/mine/address/address.css'
+         })
+         .state("mine.address.addaddress", {
+             url: "/addaddress",
+             templateUrl: "component/mine/address/addaddress/addaddress.html",
+             controller:'addAddressCtrl',
+             css:'component/mine/address/addaddress/addaddress.css'
+         })
+         .state("mine.address.adduseraddress", {
+             url: "/adduseraddress",
+             templateUrl: "component/mine/address/adduseraddress/adduseraddress.html",
+             controller:'adduseraddressCtrl',
+             css:'component/mine/address/adduseraddress/adduseraddress.css'
          })
          .state("mine.scbb", {
              url: "/scbb",
@@ -121,3 +157,47 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
          })
 
 });
+
+myApp.controller('myCtrl',['$scope',function($scope){
+    $scope.isActive1=true;
+    $scope.changeStyle=function(){
+        $scope.changesStyle=true;
+        $scope.isActive1=true;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle2=function(){
+        $scope.changesStyle2=true;
+        $scope.isActive2=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle3=function(){
+        $scope.changesStyle3=true;
+        $scope.isActive3=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle4=false;
+        $scope.isActive4=false;
+    }
+    $scope.changeStyle4=function(){
+        $scope.changesStyle4=true;
+        $scope.isActive4=true;
+        $scope.changesStyle=false;
+        $scope.isActive1=false;
+        $scope.changesStyle2=false;
+        $scope.isActive2=false;
+        $scope.changesStyle3=false;
+        $scope.isActive3=false;
+    }
+}])

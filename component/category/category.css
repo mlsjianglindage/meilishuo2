@@ -17,7 +17,7 @@
 /*分类热销*/
 #categorySale{border-top:10px solid #f5edf0;}
 .categorySaleImg img{width:100%;}
-.categorySaleText{width:100%;font-size: .56rem;padding:1rem;border-bottom: 1px solid #f8f8f8;border-top:1px solid #f8f8f8; margin-top: 2.5%}
+.categorySaleText{width:100%;font-size: .56rem;padding:1rem;border-bottom: 1px solid #f8f8f8;border-top:1px solid #f8f8f8; margin-top: 2.5%;background: #fff;}
 .categorySaleText span{text-align: left;}
 .categorySaleText a{float:right;color:#FF3366;}
 
