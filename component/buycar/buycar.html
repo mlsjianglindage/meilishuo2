@@ -1,16 +1,16 @@
 <div id="buycar">
     <!--buycar header-->
     <header class="buyHeader">
-        <a href="#home"><div class="buyGoBack"><img src="component/buycar/img/buyback.png" alt=""></div></a>
+        <div class="buyGoBack"><img src="component/buycar/img/buyback.png" alt=""></div>
         <div class="buyDele">删除</div>
         <div class="buyTitle"><a href="javascript:void (0)">购物车</a></div>
     </header>
 
     <!--buycar cart-->
     <div class="buyCart">
-        <ul class="buycarList" >
-            <li class="cartList">
-                <div class="buycarShop">
+        <ul class="buycarList" ng-hide="!isShow">
+            <li class="cartList" ng-repeat="(i,obj) in arr">
+                <div class="buycarShop" style="display: none;">
                     <div class="buyBox_btn">
                         <input type="checkbox" class="select_shop">
                         <label></label>
@@ -31,23 +31,23 @@
                             <label></label>
                         </div>
                         <div class="buycar_goods_main">
-                            <a href=""><img src="http://s2.mogucdn.com/p2/160822/1007024535_26le29kd1f51a549ball24kihkik5_640x833.jpg_330x440.v1cAC.70.webp" alt=""></a>
+                            <a href=""><img ng-src="{{obj.obj.show.img}}" alt=""></a>
                             <div class="buycar_goods_info">
-                                <a href=""><p>撞色毛衣+毛呢半身裙套装</p></a>
+                                <a href=""><p>{{obj.obj.title}}</p></a>
                                 <p class="buycar_goods_prop">
                                     <span class="style_color">颜色：红毛衣</span>
                                     <span>尺码：均码</span>
                                 </p>
                                 <div class="buycar_numBox">
-                                    <div class="minus">-</div>
-                                    <input type="text" name="" id="" value="2" class="buycar_goods_count"/>
-                                    <div class="add_plus">+</div>
+                                    <div class="minus" ng-click="subCount(i)">-</div>
+                                    <input type="text" name="" id="" value="{{obj.count}}" class="buycar_goods_count"/>
+                                    <div class="add_plus" ng-click="addCount(i)">+</div>
                                 </div>
                             </div>
                             <div class="buycar_goods_right">
-                                <p class="buycar_goods_price">¥88.00</p>
-                                <p class="buycar_goods_origin_price"> ¥176.00</p>
-                                <div class="buycar_goods_dele_btn"></div>
+                                <p class="buycar_goods_price">{{obj.obj.price}}</p>
+                                <p class="buycar_goods_origin_price"> {{obj.obj.orgPrice}}</p>
+                                <div class="buycar_goods_dele_btn" ng-click="dele_goods()"></div>
                             </div>
                         </div>
                     </li>
@@ -55,7 +55,7 @@
             </li>
         </ul>
         <!--无商品界面-->
-        <div class="none_goods" >
+        <div class="none_goods" ng-hide="isShow">
             <div class="none_info">
                 <p>您的购物车还空着呢，</p>
                 <p>美物这么多，快去看看吧～</p>
@@ -64,7 +64,7 @@
         </div>
     </div>
     <!--buycar total-->
-    <div class="buycar_total" style="display: none">
+    <div class="buycar_total" ng-hide="!isShow">
         <div class="buycar_total_ctrl">
             <div class="buycar_goods_check_total">
                 <div class="buyBox_btn">
@@ -76,11 +76,13 @@
             <div class="order_msg">
                 <p class="order_msg_price">
                     合计:
-                    <span class="order_msg_totalPrice">¥176.00</span>
+                    <span class="order_msg_totalPrice">¥{{total}}</span>
                 </p>
                 <p class="order_msg_notic">不含运费、优惠扣减</p>
             </div>
             <input type="submit" value="去结算(1)">
         </div>
     </div>
+    <!--弹出信息-->
+    <div class="alert" ng-hide="!show">数量不能小于1</div>
 </div>

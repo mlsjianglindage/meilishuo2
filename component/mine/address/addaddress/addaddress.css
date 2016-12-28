@@ -45,6 +45,11 @@
     text-align: center;
     font-size: .24rem;
 }
+
+#detail_address{
+	margin-bottom: 3rem;
+}
+
 .address_detail_info{
 	background: #fff;
 }
@@ -142,4 +147,13 @@ select{
     top: 0;
 }
 
+.dele_address{
+	height: 2.8rem;
+	margin-top: 1.12rem;
+    background: #fff;
+    font-size: 1.26rem;
+    color: #FF6666;
+    padding: 0 1.28rem;
+    line-height: 2.8rem;
+}
 

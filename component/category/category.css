@@ -17,7 +17,7 @@
 /*分类热销*/
 #categorySale{border-top:10px solid #f5edf0;}
 .categorySaleImg img{width:100%;}
-.categorySaleText{width:100%;font-size: .56rem;padding:1rem;border-bottom: 1px solid #f8f8f8;border-top:1px solid #f8f8f8; margin-top: 2.5%;background: #fff;}
+.categorySaleText{width:100%;font-size: .56rem;padding:1rem;border-bottom: 1px solid #f8f8f8;border-top:1px solid #f8f8f8;background: #fff;margin-top: -1%;}
 .categorySaleText span{text-align: left;}
 .categorySaleText a{float:right;color:#FF3366;}
 
@@ -27,3 +27,5 @@
 .categoryCount-2 ul li img{width:100%;float: left;background-size: 100%;}
 .categoryCount-2 ul li{width:30%;}
 .categoryCount-2 ul li:first-of-type{width:40%;}
+
+#categoryMoreSuperImg ul li:last-of-type,#categoryMoreSuperImg ul li:nth-of-type(6),#categoryMoreSuperImg ul li:nth-of-type(5){display: none;}

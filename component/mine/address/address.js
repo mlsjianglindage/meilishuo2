@@ -3,5 +3,7 @@
  */
 angular.module('addressModule',[])
     .controller('addressCtrl',['$scope',function($scope){
-        console.log(444);
+    	//取值
+        $scope.objArr=JSON.parse(localStorage.getItem('addressDetailInfo'));
+		console.log($scope.objArr);
     }])

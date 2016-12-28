@@ -1,56 +1,62 @@
 <div id="addAddress">
 	<!--addAddress header-->
 	<header class="user_addAddress_header">
-	    <div class="user_addAddress"><a href="#mine"><img src="component/mine/scbb/img/goback.png" alt=""></a></div>
-	    <div class="user_addAddress_add">保存</div>
+	    <div class="user_addAddress"><a href="#mine/address"><img src="component/mine/scbb/img/goback.png" alt=""></a></div>
+	    <a href="#mine/address" ng-click="saveInfo(name,phone,selected.name,selected2.name,selected3.value,detail,mail)"><div class="user_addAddress_add">保存</div></a>
 	    <div class="user_addAddress_title"><a href="javascript:void (0)">收货地址</a></div>
 	 </header>
 	<!--addAddress main-->
 	<div class="addressErrorMessage"></div>
 	<p class="address_detail_info">
 		<label for="addressUser">
-			<input type="text" placeholder="收货人" name="" id="addressUser" value="" />
+			<input ng-model="name" type="text" placeholder="收货人" name="" id="addressUser" value="" />
 		</label>
 	<p>
 	<p class="address_detail_info">
 		<label for="validatePhoneOrMobile">
-			<input type="text" placeholder="联系电话" name="" id="validatePhoneOrMobile" value="" />
+			<input ng-model="phone" ng-pattern="/^(13[0-9]{9})|(15[89][0-9]{8})$/" type="text" placeholder="联系电话" name="" id="validatePhoneOrMobile" value="" />
 		</label>
 	<p>
 	<p class="address_detail_info">
 		<label for="addressPid" class="select_box">
-			<span class="notice note_hidden">所在省份</span>
-			<select id="addressPid" name="province">						<option value="0"></option>												<option value="100000">北京</option>												<option value="100073">上海</option>												<option value="100168">天津</option>												<option value="100216">重庆</option>												<option value="101254">河北省</option>												<option value="101439">山西省</option>												<option value="101570">河南省</option>												<option value="101770">辽宁省</option>												<option value="101890">吉林省</option>												<option value="101964">黑龙江省</option>												<option value="102110">内蒙古自治区</option>												<option value="102225">江苏省</option>												<option value="102351">山东省</option>												<option value="102515">安徽省</option>												<option value="102647">浙江省</option>												<option value="102752">福建省</option>												<option value="102848">湖北省</option>												<option value="103056">湖南省</option>												<option value="103198">广东省</option>												<option value="103407">广西壮族自治区</option>												<option value="103532">江西省</option>												<option value="103650">四川省</option>												<option value="103857">海南省</option>												<option value="104153">贵州省</option>												<option value="104252">云南省</option>												<option value="104398">西藏自治区</option>												<option value="104479">陕西省</option>												<option value="104598">甘肃省</option>												<option value="104703">青海省</option>												<option value="104758">宁夏回族自治区</option>												<option value="104786">新疆维吾尔自治区</option>												<option value="104915">海外</option>												<option value="104934">香港特别行政区</option>												<option value="104956">澳门特别行政区</option>												<option value="104959">台湾</option>											</select>
+			<span class="notice note_hidden" ng-hide="visible">所在省份</span>
+			<select id="addressPid" name="province" ng-model="selected" ng-options="s.name for s in list" ng-change="c()">
+				<option value=" "></option>
+         	</select>	
 			<span class="select_btn">请选择<i></i></span>
 		</label>
 	<p>
 	<p class="address_detail_info">
 		<label for="addressCid" class="select_box">					
-			<span class="notice note_hidden">所在城市</span>					
-			<select id="addressCid" name="city"><option value="0"></option> <option value="102849">武汉市</option> <option value="102864">黄石市</option> <option value="102872">襄阳市</option> <option value="102882">十堰市</option> <option value="102891">荆州市</option> <option value="102900">宜昌市</option> <option value="102914">孝感市</option> <option value="102922">黄冈市</option> <option value="102933">咸宁市</option> <option value="102940">恩施州</option> <option value="102949">鄂州市</option> <option value="102953">荆门市</option> <option value="102959">随州市</option> <option value="102963">潜江市</option> <option value="102991">天门市</option> <option value="103020">仙桃市</option> <option value="103047">神农架林区</option></select>					
+			<span class="notice note_hidden" ng-hide="visible2">所在城市</span>	
+			<select id="addressCid" name="city" ng-model="selected2" ng-options="sh.name for sh in selected.child" ng-change="c2()">
+                <option value=" "></option>
+          	</select>
 			<span class="select_btn">请选择<i></i></span>				
 		</label>
 	<p>
 	<p class="address_detail_info">				
 		<label for="addressDid" class="select_box">					
-			<span class="notice note_hidden">所在地区</span>					
-			<select id="addressDid" name="area"><option value="0"></option> <option value="102850">硚口区</option> <option value="102851">武汉经济技术开发区</option> <option value="102852">江岸区</option> <option value="102853">武昌区</option> <option value="102854">江汉区</option> <option value="102855">蔡甸区</option> <option value="102856">江夏区</option> <option value="102857">新洲区</option> <option value="102858">黄陂区</option> <option value="102859">汉阳区</option> <option value="102860">青山区</option> <option value="102861">洪山区</option> <option value="102862">汉南区</option> <option value="102863">东西湖区</option></select>					
+			<span class="notice note_hidden" ng-hide="visible3">所在地区</span>	
+			<select id="addressDid" name="area" ng-model="selected3" ng-options="x.value for x in selected2.child" ng-change="c3()">
+                  <option value=" "></option>
+          	</select>
 			<span class="select_btn">请选择<i></i></span>				
 		</label>			
 	</p>
 	<p class="address_detail_info">				
 		<label for="addressStreet">					
-			<input id="addressStreet" type="text" name="address" placeholder="详细地址(必填)" value="">				
+			<input ng-model="detail" id="addressStreet" type="text" name="address" placeholder="详细地址(必填)" value="">				
 		</label>			
 	</p><p class="address_detail_info">				
 		<label for="addressPostcode">					
-			<input id="addressPostcode" type="tel" name="zip" value="" placeholder="邮政编码(选填)">				
+			<input ng-model="mail" ng-pattern="/^[1-9][0-9]{5}$/" id="addressPostcode" type="tel" name="zip" value="" placeholder="邮政编码(选填)">				
 		</label>			
 	</p>
 	<div class="address_detail_info">				
 		<div class="set_address">					
 			<span>设为默认地址</span>										
-			<input type="checkbox" name="isDefault" id="is_default" value="944405279" checked="" style="display:none">					
+			<input type="checkbox" name="isDefault" id="is_default" value="" checked="" style="display:none">					
 			<span class="switch_btn switch_uncheck">						
 				<i class="inner_circle"></i>					
 			</span>				

@@ -47,7 +47,7 @@
 .address_show .address_show_one{
     background: #fff;
 }
-.address_show .address_show_one:first-child{
+.address_show .address_show_one{
     margin-bottom: 1.16rem;
 }
 .address_info{
