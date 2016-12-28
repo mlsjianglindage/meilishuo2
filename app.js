@@ -1,5 +1,10 @@
 
+<<<<<<< HEAD
 var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule']);
+=======
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
+
+>>>>>>> c1c0e136aa453afa76634b3c0c15d8fbe8c43221
 
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 
@@ -12,6 +17,12 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'homeCtrl',
 			css:'component/home/home.css'
         })
+         .state("home.HomeDetial", {
+             url:"/HomeDetial",
+             templateUrl: "component/home/HomeDetial/HomeDetial.html",
+             controller:'HomeDetialCtrl',
+             css:'component/home/HomeDetial/HomeDetial.css'
+         })
          .state("home.mrsx", {
              url:"/mrsx",
              templateUrl: "component/home/mrsx/mrsx.html",
@@ -35,6 +46,12 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              templateUrl: "component/home/nzdp/nzdp.html",
              controller:'nzdpCtrl',
              css:'component/home/nzdp/nzdp.css'
+         })
+         .state("home.nzdp.nzdpDetial", {
+             url:"/nzdpDetial",
+             templateUrl: "component/home/nzdp/nzdpDetial/nzdpDetial.html",
+             controller:'nzdpDetialCtrl',
+             css:'component/home/nzdp/nzdpDetial/nzdpDetial.css'
          })
          .state("home.yzlx", {
              url:"/yzlx",

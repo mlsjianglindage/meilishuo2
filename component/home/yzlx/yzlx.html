@@ -1,10 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+<div ui-view="">
 
-</body>
-</html>
+    <div class="lazyData">
+        <div class="lazyData1">本周流行关键词</div>
+        <div class="lazyData2">每周一更新</div>
+        <div class="listWrap">
+           <ul>
+               <li ng-repeat="obj in arr1"><img ng-src="{{obj.image}}" alt=""><span>{{obj.title}}</span></li>
+           </ul>
+        </div>
+    </div>
+<div class="productWrap">
+    <p>每日流行单品</p>
+    <p>买手&红人推荐，最值得买的流行单品</p>
+    <ul>
+        <li ng-repeat="obj in arr2">
+            <a href="#" class="a1"><img ng-src="{{obj.image}}" alt=""><span></span><b>Top<br/>1</b></a>
+            <div class="goodsIntro">
+                <p>{{obj.title}}</p>
+                <p>{{obj.description}}</p>
+                <a href="" class="a2">{{obj.tag1}}</a>
+                <span>流行指数：{{obj.popularStar}}星</span>
+            </div>
+        </li>
+    </ul>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+<div class="HomeDetial">
+   <div class="HomeGoodsDetial">
+       <img ng-src="{{HomeDetialobj.show.img}}" alt="">
+      <div class="primary">
+          <p>{{HomeDetialobj.title}}</p>
+          <p>美美哒</p>
+          <div class="infoPrice"><span>{{HomeDetialobj.price}}</span><span>{{HomeDetialobj.orgPrice}}</span><span>{{HomeDetialobj.itemType}}折</span></div>
+
+      </div>
+
+   </div>
+
+    <div class="HomeDetialBottom">
+        <div class="HomeDetial1"><img src="component/home/homeImg/kefu.png" alt="">客服</div>
+        <div class="HomeDetial2"><img src="component/home/homeImg/dianpu.png" alt="">店铺</div>
+        <div class="HomeDetial3"><img src="component/home/homeImg/sc.png" alt="">收藏</div>
+        <span ng-click="toBuyCar()">加入购物车</span>
+        <a href="">立即购买</a>
+    </div>
+
+    <div class="toBuyDetial" ng-show="isShow">
+        <div class="toBuyDetial1">
+            <div class="skuTitle">
+                <img src="{{HomeDetialobj.show.img}}" alt="">
+                <div class="skuTitle1">
+                    <b ng-click="close()">×</b>
+                    <p>{{HomeDetialobj.title}}</p>
+                    <span>{{HomeDetialobj.price}}</span>
+                    <span>库存:{{HomeDetialobj.cfav}}</span><br/>
+                    <span>请选择颜色，尺码</span>
+                </div>
+            </div>
+            <div class="skuCenter">
+                <div class="skuCenterColor"><p>颜色:</p><span>卡其色</span><span>灰色</span><span>粉色</span></div>
+                <div class="skuCenterSize"><p>尺码:</p><span>S</span><span>M</span><span>L</span><span>XL</span></div>
+                <div class="skuCenterHow"><p>数量:</p><span>-</span><span>1</span><span>+</span></div>
+            </div>
+            <div class="skuBottom" ng-click="sure(HomeDetialobj)"><span>确定</span></div>
+        </div>
+    </div>
+</div>

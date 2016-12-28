@@ -1,1 +1,23 @@
-<p>每日上新</p>
+<div class="mrsx">
+    <div class="mrsxTap">
+        <span ng-click="mrsxTap1()">12.18</span>
+        <span ng-click="mrsxTap2()">12.19</span>
+        <span ng-click="mrsxTap3()">12.20</span>
+        <span ng-click="mrsxTap4()">12.21</span>
+    </div>
+    <ul ng-show="flag1">
+        <li ng-repeat="obj in arr1"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+    </ul>
+
+    <ul ng-show="flag2">
+        <li ng-repeat="obj in arr2"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+    </ul>
+
+    <ul ng-show="flag3">
+        <li ng-repeat="obj in arr3"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+    </ul>
+
+    <ul ng-show="flag4">
+        <li ng-repeat="obj in arr4"><img ng-src="{{obj.show.img}}" alt=""><p>{{obj.title}}</p><span class="sp1">{{obj.orgPrice}}</span><span class="sp2"><b class="fa fa-address-book "></b>{{obj.cfav}}</span></li>
+    </ul>
+</div>
