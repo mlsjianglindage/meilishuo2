@@ -5,7 +5,7 @@
           <p>{{HomeDetialobj.title}}</p>
           <p>美美哒</p>
           <div class="infoPrice"><span>{{HomeDetialobj.price}}</span><span>{{HomeDetialobj.orgPrice}}</span><span>{{HomeDetialobj.itemType}}折</span></div>
-
+          <a href="#buycar"><img src="component/home/homeImg/buycar.png" alt=""></a>
       </div>
      <div class="diandi"></div>
    </div>
@@ -33,9 +33,10 @@
             <div class="skuCenter">
                 <div class="skuCenterColor"><p>颜色:</p><span>卡其色</span><span>灰色</span><span>粉色</span></div>
                 <div class="skuCenterSize"><p>尺码:</p><span>S</span><span>M</span><span>L</span><span>XL</span></div>
-                <div class="skuCenterHow"><p>数量:</p><span>-</span><span>1</span><span>+</span></div>
+                <div class="skuCenterHow"><p>数量:</p><span ng-click="resourGoods(HomeDetialobj)">-</span><span>{{arrCount}}</span><span ng-click="addGoods(HomeDetialobj)">+</span></div>
             </div>
             <div class="skuBottom" ng-click="sure(HomeDetialobj)"><span>确定</span></div>
+
         </div>
     </div>
 </div>

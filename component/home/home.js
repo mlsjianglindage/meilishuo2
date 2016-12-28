@@ -60,6 +60,7 @@ angular.module('HomeModule',[])
         })
         //点击进入详情页面
         $scope.lookHomeList=function (obj) {
+            console.log(obj.shopId);
             localStorage.setItem("HomeList",JSON.stringify(obj));
         }
 

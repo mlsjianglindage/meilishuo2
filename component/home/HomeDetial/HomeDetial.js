@@ -16,37 +16,71 @@ angular.module('HomeDetialMoudle',[])
             $scope.isShow=true;
 
         }
+        //增加商品数量
 
+
+
+       // $scope.arrCount=1;
+        $scope.addGoods=function (obj) {
+            //取到localstorage里面的count，也让它加减减
+            var arr2=JSON.parse(localStorage.getItem('sure3'));
+            console.log(arr2[0].count);
+            for (var i=0;i<arr2.length;i++){
+                if(arr2[i].obj.cfav==obj.cfav){
+                    arr2[i].count++;
+                    localStorage.setItem('sure3',JSON.stringify(arr2));
+                    $scope.arrCount=arr2[i].count;
+                }
+            }
+            $scope.arrCount++;
+        }
+        $scope.resourGoods=function (obj) {
+            //点击减的时候
+            var arr2=JSON.parse(localStorage.getItem('sure3'));
+            console.log(arr2[0].count);
+            for (var i=0;i<arr2.length;i++){
+                if(arr2[i].obj.cfav==obj.cfav){
+                    arr2[i].count--;
+                    localStorage.setItem('sure3',JSON.stringify(arr2));
+                }
+            }
+            $scope.arrCount--;
+            if($scope.arrCount<=1){
+                $scope.arrCount=1
+                alert("商品个数不能小于1");
+            }
+        }
        //点击确定后，向购物车页面写入数据
         $scope.arrLocalstorage=[];
 
         $scope.sure=function (aaa) {//向localStorage中写入数据，每次写进去之前要先把上次的给push进数组，不然会被覆盖
-          console.log(aaa);
             $scope.isShow=false;
+            var arr1= JSON.parse(localStorage.getItem('sure3'));
 
-            var arr1= JSON.parse(localStorage.getItem('sure2'));
             if(arr1){
                 console.log(arr1);
                 var number = 0;
                 for(var k=0;k<arr1.length;k++){
                     //console.log(aaa.shopId);
                     //console.log(arr1[k].obj.shopId);
-                    if(arr1[k].obj.shopId == aaa.shopId){
-                        localStorage.setItem('sure2',JSON.stringify(arr1));
+                    if(arr1[k].obj.cfav == aaa.cfav){
+                        $scope.arrCount=arr1[k].count;
                         number=1
                         arr1[k].count++;
+
+                        localStorage.setItem('sure3',JSON.stringify(arr1));
                         //console.log(aaa.shopId);
                         break;
                     }
                 }
                 if(number==0){
                     arr1.push({'count':1,'obj':aaa});
-                    localStorage.setItem('sure2',JSON.stringify(arr1));
+                    localStorage.setItem('sure3',JSON.stringify(arr1));
                 }
             }else {
-               // $scope.arrLocalstorage=JSON.parse(localStorage.getItem('sure2'));
+               // $scope.arrLocalstorage=JSON.parse(localStorage.getItem('sure3'));
                 $scope.arrLocalstorage.push({'count':1,'obj':aaa});
-                localStorage.setItem('sure2',JSON.stringify($scope.arrLocalstorage));
+                localStorage.setItem('sure3',JSON.stringify($scope.arrLocalstorage));
                 console.log($scope.arrLocalstorage);
             }
         }
