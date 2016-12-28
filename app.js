@@ -1,4 +1,4 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -10,6 +10,12 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'homeCtrl',
 			css:'component/home/home.css'
         })
+         .state("home.HomeDetial", {
+             url:"/HomeDetial",
+             templateUrl: "component/home/HomeDetial/HomeDetial.html",
+             controller:'HomeDetialCtrl',
+             css:'component/home/HomeDetial/HomeDetial.css'
+         })
          .state("home.mrsx", {
              url:"/mrsx",
              templateUrl: "component/home/mrsx/mrsx.html",

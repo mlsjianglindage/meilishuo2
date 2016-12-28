@@ -58,4 +58,9 @@ angular.module('HomeModule',[])
         HomeService4.success(function (res){
             $scope.arr4=res.data.list;
         })
+        //点击进入详情页面
+        $scope.lookHomeList=function (obj) {
+            localStorage.setItem("HomeList",JSON.stringify(obj));
+        }
+
     }])

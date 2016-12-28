@@ -25,8 +25,11 @@ angular.module('nzdpModule',[])
            //  localStorage.setItem('productDetail',JSON.stringify(arrTemp));
            //  $scope.arr = JSON.parse(localStorage.getItem('productDetail'));
            //  console.log($scope.arr);
-            localStorage.setItem("user",JSON.stringify(obj));
+            localStorage.setItem("hhhh",JSON.stringify(obj));
+            // $scope.sssss=JSON.parse(localStorage.getItem('sure'));
+            // console.log( $scope.sssss);
         }
+
         nzdpServers1.success(function (res) {
             $scope.arr1=res.data.list;
 
