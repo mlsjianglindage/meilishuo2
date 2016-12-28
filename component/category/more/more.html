@@ -8,7 +8,7 @@
         <div class="categorySearchDian"></div>
     </div>
 
-    <div class="moreTop" id="moreTopId">
+    <div class="moreTop" id="moreTopId" >
         <ul>
             <li ng-click="moreFashion()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor1]" class="moreTopLi">流行</li>
             <li ng-click="moreHot()" ng-class="{true:'moreColor1',false:'moreColor2'}[moreChangeColor2]">热销</li>
@@ -18,7 +18,7 @@
     <div class="clearfix"></div>
     <div class="moreCount">
         <ul class="moreCountUl-1">
-            <li ng-repeat="obj in arr" ng-show="!show1">
+            <li ng-repeat="obj in arr" ng-show="!show1" ui-sref=".moreShop" ng-click="moreBy(obj)" >
                 <img src="{{obj.show.img}}" alt="">
                 <p>{{obj.title}}</p>
                 <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>
@@ -26,8 +26,8 @@
                 <!--<img class="moreCountLastImg" src="{{obj.lefttop_taglist.img}}">-->
             </li>
         </ul>
-        <ul class="moreCountUl-2" ng-show="!show2">
-            <li ng-repeat="obj in arr1">
+        <ul class="moreCountUl-2" ng-show="!show2"  >
+            <li ng-repeat="obj in arr1" ui-sref=".moreShop">
                 <img src="{{obj.show.img}}" alt="">
                 <p>{{obj.title}}</p>
                 <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>
@@ -35,8 +35,8 @@
                 <!--<img class="moreCountLastImg" src="{{obj.lefttop_taglist.img}}">-->
             </li>
         </ul>
-        <ul class="moreCountUl-3" ng-show="!show3">
-            <li ng-repeat="obj in arr2">
+        <ul class="moreCountUl-3" ng-show="!show3" >
+            <li ng-repeat="obj in arr2"  ui-sref=".moreShop">
                 <img src="{{obj.show.img}}" alt="">
                 <p>{{obj.title}}</p>
                 <div class="moreCountSpanCenter"><span>{{obj.price}}</span><span>{{obj.orgPrice}}</span></div>

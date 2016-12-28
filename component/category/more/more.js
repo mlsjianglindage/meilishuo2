@@ -50,5 +50,11 @@ angular.module('moreModule',[])
             $anchorScroll();
             // console.log('dd')
         }
+        $scope.moreBy=function(obj){
+            localStorage.setItem("categoryMore",JSON.stringify(obj));
+            console.log(obj);
+        }
+
+
 
     }])
