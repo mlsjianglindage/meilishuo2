@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
-=======
-<<<<<<< HEAD
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule']);
-=======
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule','moreShopModule']);
->>>>>>> e930671041d7941342d089da81715d0a8f375775
->>>>>>> 1c153a45fea5125a3e7965e4bd111e042d1c0c26
+
+
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -90,8 +85,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'moreCtrl',
             css:'component/category/more/more.css'
         })
-<<<<<<< HEAD
-=======
+
          .state("category.search", {
              url:"/search",
              templateUrl: "component/category/search/search.html",
@@ -105,7 +99,7 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              css:'component/category/more/moreShop/moreShop.css'
          })
 
->>>>>>> e930671041d7941342d089da81715d0a8f375775
+
         .state("buycar", {
             url: "/buycar",
             templateUrl: "component/buycar/buycar.html",
