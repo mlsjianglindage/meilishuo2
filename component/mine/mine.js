@@ -2,7 +2,6 @@ angular.module('mineModule',[])
 	.controller('mineCtrl',['$scope',function($scope){
 
 		$scope.changeThisStyle = function(v) {
-			console.log('sss');
 			var llis = document.getElementsByTagName("li");
 			for(var i = 0; i < llis.length; i++) {
 				var lli = llis[i];

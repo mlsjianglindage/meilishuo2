@@ -1,0 +1,145 @@
+/*addAddress header*/
+.user_addAddress_header{
+    height: 3.92rem;
+    width: 100%;
+    background: #fff;
+    overflow: hidden;
+    text-align: center;
+    color: #333;
+    line-height:3.92rem;
+    border-bottom: 1px solid rgba(51,51,51,0.15);
+}
+.user_addAddress{
+    z-index: 5;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    width: 1.8rem;
+    padding-left: 1.3rem;
+}
+.user_addAddress a img{
+    width: .8rem;
+    display: inline-block;
+    margin-top: 1.28rem;
+}
+.user_addAddress_add{
+    z-index: 5;
+    font-size: 1.55rem;
+    float: right;
+    padding-right: 1.3rem;
+    height: 3.92rem;
+    color: #FF7A9A;
+}
+.user_addAddress_title{
+    z-index: 1;
+    margin-left: 3.6rem;
+}
+.user_addAddress_title a{
+    font-size: 1.55rem;
+    color: #666;
+}
+/*addAddress main*/
+.addressErrorMessage{
+	color: #FF7A9A;
+    margin: .6rem 0;
+    text-align: center;
+    font-size: .24rem;
+}
+.address_detail_info{
+	background: #fff;
+}
+.address_detail_info>label{
+	display: block;
+    border-bottom: 1px solid #ccc;
+    padding: 1.3rem 0;
+    vertical-align: middle;
+    font-size: 0;
+    margin-left: 1.28rem;
+}
+.address_detail_info>label input[type=text],.address_detail_info>label input[type=tel]{
+	font-size: 1rem;
+    color: #000;
+    width: 95%;
+    outline: none;
+    border: none;
+    text-indent: 0;
+    padding: 0;
+    text-align: left;
+}
+.notice{
+	color: #bbb;
+    height: .5rem;
+    line-height: .5rem;
+    position: absolute;
+    top: 50%;
+    margin-top: -0.25rem;
+    left: 0;
+}
+select{
+	font-size: 1rem;
+    color: #000;
+    width: 85%;
+    outline: none;
+    border: none;
+    text-indent: 0;
+    padding: 0;
+    text-align: left;
+    -webkit-appearance: none;
+}
+.select_btn{
+	float: right;
+    margin-right: 1.3rem;
+    color: #FF7A9A;
+    font-size: 1.24rem;
+}
+.select_btn>i{
+	display: inline-block;
+    vertical-align: middle;
+    content: "";
+    color: green;
+    width: 1.13rem;
+    height: 1.26rem;
+    margin-left: 1.22rem;
+    margin-top: -0.4rem;
+	background: url('img/right.png') no-repeat center;
+	background-size: contain;
+}
+.address_detail_info>.set_address{
+	margin-top: .6rem;
+    border-bottom: none;
+    display: block;
+    line-height: 2.8rem;
+    height: 2.8rem;
+    vertical-align: middle;
+    font-size: 0;
+    margin-left: 1.28rem;
+}
+.address_detail_info>.set_address span{
+	font-size: 1rem;
+    color: #666;
+}
+.switch_btn{
+	display: block;
+    position: relative;
+    width: 3.88rem;
+    height: 1.74rem;
+    border-radius: 1.22rem;
+    float: right;
+    margin-top: .5rem;
+    margin-right: 1.3rem;
+}
+.switch_check{
+	background: #86E653;
+}
+.inner_circle{
+	width: 1.7rem;
+    height: 1.7rem;
+    background: #fff;
+    display: inline-block;
+    border-radius: 1.44rem;
+    position: absolute;
+    right: .1rem;
+    top: 0;
+}
+
+

@@ -1,4 +1,4 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','scbbModule','shopModule','youhuiModule']);
+var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule']);
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 	
 	$urlRouterProvider.when("", "/home");
@@ -70,12 +70,6 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
             controller:'moreCtrl',
             css:'component/category/more/more.css'
         })
-         .state("category.search", {
-             url:"/search",
-             templateUrl: "component/category/search/search.html",
-             controller:'searchCtrl',
-             css:'component/category/search/search.css'
-         })
         .state("buycar", {
             url: "/buycar",
             templateUrl: "component/buycar/buycar.html",
@@ -94,6 +88,18 @@ myApp.config(function ($stateProvider, $urlRouterProvider) {
              templateUrl: "component/mine/address/address.html",
              controller:'addressCtrl',
              css:'component/mine/address/address.css'
+         })
+         .state("mine.address.addaddress", {
+             url: "/addaddress",
+             templateUrl: "component/mine/address/addaddress/addaddress.html",
+             controller:'addAddressCtrl',
+             css:'component/mine/address/addaddress/addaddress.css'
+         })
+         .state("mine.address.adduseraddress", {
+             url: "/adduseraddress",
+             templateUrl: "component/mine/address/adduseraddress/adduseraddress.html",
+             controller:'adduseraddressCtrl',
+             css:'component/mine/address/adduseraddress/adduseraddress.css'
          })
          .state("mine.scbb", {
              url: "/scbb",
