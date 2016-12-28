@@ -1,4 +1,6 @@
-var myApp = angular.module("myApp", ['ui.router','angularCSS','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','moreShopModule','searchModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
+
+var myApp = angular.module("myApp", ['ui.router','angularCSS','me-lazyload','HomeModule','HomeDetialMoudle','mrsxModule','pptmModule','gwzyModule','nzdpModule','yzlxModule','morenModule','zuixinModule','jingxuanModule','categoryModule','moreModule','moreShopModule','searchModule','buycarModule','mineModule','addressModule','adduseraddressModule','addAddressModule','scbbModule','shopModule','youhuiModule','nzdpDetialMoudel']);
+
 
 myApp.config(function ($stateProvider, $urlRouterProvider) {
 

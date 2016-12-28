@@ -1,6 +1,6 @@
 angular.module('buycarModule',[])
     .controller('buycarCtrl',['$scope',function($scope){
-        $scope.arr=JSON.parse(localStorage.getItem('sure2'));
+        $scope.arr=JSON.parse(localStorage.getItem('sure3'));
 
         //切换购物车信息,判断arr长度
         if($scope.arr.length>0){
@@ -11,7 +11,7 @@ angular.module('buycarModule',[])
         console.log($scope.arr);
 
         //计算商品价格
-        $scope.totalArr = JSON.parse(localStorage.getItem('sure2'));
+        $scope.totalArr = JSON.parse(localStorage.getItem('sure3'));
         totalPrice($scope.totalArr);
         function totalPrice(arr){
             $scope.total=0;
@@ -33,8 +33,8 @@ angular.module('buycarModule',[])
                 $scope.arr[i].count=1;
                 $scope.isCount=true;
             }
-            localStorage.setItem('sure2',JSON.stringify($scope.arr));
-            $scope.arr=JSON.parse(localStorage.getItem('sure2'));
+            localStorage.setItem('sure3',JSON.stringify($scope.arr));
+            $scope.arr=JSON.parse(localStorage.getItem('sure3'));
 
             for(var i=0;i<$scope.arr.length;i++){
                 var str =$scope.arr[i].obj.price;
@@ -50,8 +50,8 @@ angular.module('buycarModule',[])
         $scope.addCount=function(i){
             $scope.arr[i].count++;
             $scope.show=false;
-            localStorage.setItem('sure2',JSON.stringify($scope.arr));
-            $scope.arr=JSON.parse(localStorage.getItem('sure2'));
+            localStorage.setItem('sure3',JSON.stringify($scope.arr));
+            $scope.arr=JSON.parse(localStorage.getItem('sure3'));
 
             for(var i=0;i<$scope.arr.length;i++){
                 var str =$scope.arr[i].obj.price;

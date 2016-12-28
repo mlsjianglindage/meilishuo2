@@ -6,18 +6,19 @@ html,body{
     color: #333;
 	background: #f4f4f4;
 }
-#wrap{
-	width: 100%;
-	height: 100%;
-	position: relative;
-}
-#main{
-	width: 100%;
-	height: 90%;
-	overflow: auto;
-	position: absolute;
-}
-#tap{width: 100%;height:10%;position: absolute;bottom:0;background: #fff;padding-top: .6rem;}
+/*#wrap{*/
+	/*width: 100%;*/
+	/*height: 100%;*/
+	/*position: relative;*/
+/*}*/
+/*#main{*/
+	/*width: 100%;*/
+	/*height: 90%;*/
+	/*overflow: auto;*/
+	/*position: absolute;*/
+/*}*/
+
+#tap{width: 100%;height:10%;position: fixed;bottom:0;background: #fff;padding-top: .6rem;background: white;z-index: 1001;}
 #tap li{width:25%;height:100%;text-align:center;display: flex;justify-content: center;flex-direction: column;float: left;}
 #tap li a{font-size:1rem;float: left;display: block;width:100%;height:100%;color: #666;-webkit-box-flex: 1;-moz-box-flex: 1;overflow: hidden;justify-content: center;flex-direction: column;}
 #tap li a span{margin: 0.08rem auto;margin-top: 0.128rem;display: block;background-size: 100% auto;overflow: hidden;text-indent: -9999px;text-align: left;width:1.5rem;height:1.5rem;background-repeat:no-repeat;background-position: center;background-size: contain;}
