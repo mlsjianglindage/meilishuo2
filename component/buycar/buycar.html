@@ -28,7 +28,7 @@
                     <li class="buycar_goods">
                         <div class="buyBox_btn" id="btn">
                             <input type="checkbox" class="select_shop" >
-                            <label></label>
+                            <label ng-class="{true:'selected',false:'noselect'}[changeSelect]" ng-click="select(obj,obj.obj.shopId)"></label>
                         </div>
                         <div class="buycar_goods_main">
                             <a href=""><img ng-src="{{obj.obj.show.img}}" alt=""></a>
@@ -47,7 +47,7 @@
                             <div class="buycar_goods_right">
                                 <p class="buycar_goods_price">{{obj.obj.price}}</p>
                                 <p class="buycar_goods_origin_price"> {{obj.obj.orgPrice}}</p>
-                                <div class="buycar_goods_dele_btn" ng-click="dele_goods()"></div>
+                                <div class="buycar_goods_dele_btn" ng-click="dele_goods(i)"></div>
                             </div>
                         </div>
                     </li>
@@ -69,7 +69,7 @@
             <div class="buycar_goods_check_total">
                 <div class="buyBox_btn">
                     <input type="checkbox" class="select_all_shop">
-                    <label></label>
+                    <label ng-click="selectAll()" ng-class="{true:'chocie_all',false:'isChocie_all'}[isAll]"></label>
                 </div>
                 <span>全选</span>
             </div>
@@ -84,5 +84,8 @@
         </div>
     </div>
     <!--弹出信息-->
-    <div class="alert" ng-hide="!show">数量不能小于1</div>
+    <div class="alert" ng-class="{true:'maxCount',false:'minCount'}[isCount]">数量不能小于1</div>
+
+    <!--弹出信息-->
+    <div class="alert" ng-class="{true:'true',false:'false'}[isTrue]">删除商品成功</div>
 </div>

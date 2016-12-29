@@ -33,6 +33,7 @@ angular.module('moreShopModule',[])
                     localStorage.setItem('moreShop1',JSON.stringify(arr02));
                 }
             }else {
+                // $scope.arrLocalstorage=JSON.parse(localStorage.getItem('sure2'));
                 $scope.arrLocalstorage.push({'count':1,'obj':aaa});
                 localStorage.setItem('moreShop1',JSON.stringify($scope.arrLocalstorage));
                 console.log($scope.arrLocalstorage);

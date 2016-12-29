@@ -1,6 +1,6 @@
 angular.module('addAddressModule',[])
 .controller('addAddressCtrl',['$scope','$http',function($scope,$http){
-	$scope.objArr2=JSON.parse(localStorage.getItem('addressDetailInfo'));
+	$scope.objArr2=JSON.parse(localStorage.getItem('addressDetailInfos'));
 	console.log($scope.objArr2);
 	//省级联动
 	$scope.error = {};
@@ -33,7 +33,6 @@ angular.module('addAddressModule',[])
 	//删除
 	$scope.dele_address=function(id){
 		console.log(id);
-		
 	}
 	
 }])

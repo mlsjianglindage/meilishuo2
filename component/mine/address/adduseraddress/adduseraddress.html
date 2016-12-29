@@ -6,10 +6,11 @@
 	    <div class="user_addAddress_title"><a href="javascript:void (0)">收货地址</a></div>
 	 </header>
 	<!--addAddress main-->
-	<div class="addressErrorMessage"></div>
+	<form ng-app="myApp" ng-controller="adduseraddressCtrl" name="myForm" novalidate>
+	<div class="addressErrorMessage" ng-show="myForm.user.$error.required"></div>
 	<p class="address_detail_info">
 		<label for="addressUser">
-			<input ng-model="name" type="text" placeholder="收货人" name="" id="addressUser" value="" />
+			<input ng-model="name" required type="text" placeholder="收货人" name="" id="addressUser" value="" />
 		</label>
 	<p>
 	<p class="address_detail_info">
@@ -53,6 +54,7 @@
 			<input ng-model="mail" ng-pattern="/^[1-9][0-9]{5}$/" id="addressPostcode" type="tel" name="zip" value="" placeholder="邮政编码(选填)">				
 		</label>			
 	</p>
+	</form>
 	<div class="address_detail_info">				
 		<div class="set_address">					
 			<span>设为默认地址</span>										
