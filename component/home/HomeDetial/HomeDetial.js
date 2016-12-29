@@ -20,7 +20,7 @@ angular.module('HomeDetialMoudle',[])
 
 
 
-       // $scope.arrCount=1;
+     $scope.arrCount=1;
         $scope.addGoods=function (obj) {
             //取到localstorage里面的count，也让它加减减
             var arr2=JSON.parse(localStorage.getItem('sure3'));
@@ -29,7 +29,7 @@ angular.module('HomeDetialMoudle',[])
                 if(arr2[i].obj.cfav==obj.cfav){
                     arr2[i].count++;
                     localStorage.setItem('sure3',JSON.stringify(arr2));
-                    $scope.arrCount=arr2[i].count;
+                   // $scope.arrCount=arr2[i].count;
                 }
             }
             $scope.arrCount++;
@@ -64,7 +64,7 @@ angular.module('HomeDetialMoudle',[])
                     //console.log(aaa.shopId);
                     //console.log(arr1[k].obj.shopId);
                     if(arr1[k].obj.cfav == aaa.cfav){
-                        $scope.arrCount=arr1[k].count;
+                       // $scope.arrCount=arr1[k].count;
                         number=1
                         arr1[k].count++;
 
